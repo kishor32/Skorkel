@@ -33,6 +33,7 @@ public class UIInteraction {
             Log.error("Element not found exception"+e.getMessage());
         }
         return element;
+
     }
 
     public static List<WebElement> findElements(String tagName){
