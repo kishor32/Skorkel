@@ -1,0 +1,1086 @@
+2016-05-01 10:12:46,485 INFO  [Log] Excel File found 
+2016-05-01 10:12:47,601 INFO  [Log] A new excel workbook created 
+2016-05-01 10:12:47,604 INFO  [Log] First excel sheet opened 
+2016-05-01 10:12:47,604 INFO  [Log] Excel File found 
+2016-05-01 10:12:47,694 INFO  [Log] A new excel workbook created 
+2016-05-01 10:12:47,694 INFO  [Log] Second excel sheet opened 
+2016-05-01 10:12:47,695 INFO  [Log] Excel File found 
+2016-05-01 10:12:47,759 INFO  [Log] A new excel workbook created 
+2016-05-01 10:12:47,759 INFO  [Log] Third excel sheet opened 
+2016-05-01 10:12:47,769 INFO  [Log] Set Browser from excel 
+2016-05-01 10:12:47,769 INFO  [Log] get all Cases That are marked Yes from 1st Sheet 
+2016-05-01 10:12:47,776 INFO  [Log] get all keywords that related to the test cases which are marked Yes 
+2016-05-01 10:12:47,794 INFO  [Log] Method Invoked::invokeApp 
+2016-05-01 10:12:47,795 INFO  [Log] Method Invoked::findSigninButton 
+2016-05-01 10:12:47,795 INFO  [Log] Method Invoked::verifyPopup 
+2016-05-01 10:12:47,795 INFO  [Log] Method Invoked::findandsendUsername 
+2016-05-01 10:12:47,795 INFO  [Log] Method Invoked::findandsendPassword 
+2016-05-01 10:12:47,795 INFO  [Log] Method Invoked::clickloginButton 
+2016-05-01 10:12:47,903 INFO  [Log] browser name is:::chrome 
+2016-05-01 10:12:59,718 INFO  [Log] Browser initiated:::chrome 
+2016-05-01 10:12:59,719 INFO  [Log] WebDriver instance is set 
+2016-05-01 10:13:03,631 INFO  [Log] App is invoked:::http://api.skorkel.com/ 
+2016-05-01 10:13:03,683 INFO  [Log] Waiting for 10 Seconds 
+2016-05-01 10:13:13,768 INFO  [Log] Browser get Maximized 
+2016-05-01 10:13:13,769 INFO  [Log] $$$$$$$$$$$$-START-$$$$$$$$$$$$ 
+2016-05-01 10:13:13,769 INFO  [Log] Find Sign In Button 
+2016-05-01 10:13:14,084 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 10:13:14,227 INFO  [Log]  Object of Actions class is created 
+2016-05-01 10:13:14,331 INFO  [Log] Element Found 
+2016-05-01 10:13:14,690 INFO  [Log] Log in Link button is clicked 
+2016-05-01 10:13:14,708 INFO  [Log] pop up not handled properly 
+2016-05-01 10:13:14,769 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 10:13:14,817 INFO  [Log]  Object of Actions class is created 
+2016-05-01 10:13:14,847 INFO  [Log] Element Found 
+2016-05-01 10:13:14,979 INFO  [Log] Data sent to text field 
+2016-05-01 10:13:15,062 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 10:13:15,114 INFO  [Log]  Object of Actions class is created 
+2016-05-01 10:13:15,151 INFO  [Log] Element Found 
+2016-05-01 10:13:15,221 INFO  [Log] Data sent to text field 
+2016-05-01 10:13:15,323 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 10:13:15,372 INFO  [Log]  Object of Actions class is created 
+2016-05-01 10:13:29,761 INFO  [Log] Element Found 
+2016-05-01 10:34:46,487 INFO  [Log] Excel File found 
+2016-05-01 10:34:53,434 INFO  [Log] A new excel workbook created 
+2016-05-01 10:34:53,455 INFO  [Log] First excel sheet opened 
+2016-05-01 10:34:53,455 INFO  [Log] Excel File found 
+2016-05-01 10:34:53,524 INFO  [Log] A new excel workbook created 
+2016-05-01 10:34:53,524 INFO  [Log] Second excel sheet opened 
+2016-05-01 10:34:53,525 INFO  [Log] Excel File found 
+2016-05-01 10:34:53,597 INFO  [Log] A new excel workbook created 
+2016-05-01 10:34:53,597 INFO  [Log] Third excel sheet opened 
+2016-05-01 10:34:53,613 INFO  [Log] Set Browser from excel 
+2016-05-01 10:34:53,613 INFO  [Log] get all Cases That are marked Yes from 1st Sheet 
+2016-05-01 10:34:53,615 INFO  [Log] get all keywords that related to the test cases which are marked Yes 
+2016-05-01 10:34:53,742 INFO  [Log] browser name is:::chrome 
+2016-05-01 10:35:36,028 INFO  [Log] Browser initiated:::chrome 
+2016-05-01 10:35:36,028 INFO  [Log] WebDriver instance is set 
+2016-05-01 10:35:42,504 INFO  [Log] App is invoked:::http://api.skorkel.com/ 
+2016-05-01 10:35:43,662 INFO  [Log] Waiting for 10 Seconds 
+2016-05-01 10:35:49,833 INFO  [Log] Browser get Maximized 
+2016-05-01 10:35:49,835 INFO  [Log] $$$$$$$$$$$$-START-$$$$$$$$$$$$ 
+2016-05-01 10:35:49,835 INFO  [Log] Find Sign In Button 
+2016-05-01 10:35:50,329 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 10:35:50,602 INFO  [Log]  Object of Actions class is created 
+2016-05-01 10:35:50,878 INFO  [Log] Element Found 
+2016-05-01 10:35:51,389 INFO  [Log] Log in Link button is clicked 
+2016-05-01 10:35:51,439 INFO  [Log] pop up not handled properly 
+2016-05-01 10:35:51,542 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 10:35:51,598 INFO  [Log]  Object of Actions class is created 
+2016-05-01 10:35:51,631 INFO  [Log] Element Found 
+2016-05-01 10:35:51,817 INFO  [Log] Data sent to text field 
+2016-05-01 10:35:51,886 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 10:35:51,947 INFO  [Log]  Object of Actions class is created 
+2016-05-01 10:35:51,978 INFO  [Log] Element Found 
+2016-05-01 10:35:52,054 INFO  [Log] Data sent to text field 
+2016-05-01 10:35:52,130 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 10:35:52,246 INFO  [Log]  Object of Actions class is created 
+2016-05-01 10:36:12,845 INFO  [Log] Element Found 
+2016-05-01 10:39:18,493 INFO  [Log] Excel File found 
+2016-05-01 10:39:21,362 INFO  [Log] A new excel workbook created 
+2016-05-01 10:39:21,364 INFO  [Log] First excel sheet opened 
+2016-05-01 10:39:21,364 INFO  [Log] Excel File found 
+2016-05-01 10:39:21,466 INFO  [Log] A new excel workbook created 
+2016-05-01 10:39:21,466 INFO  [Log] Second excel sheet opened 
+2016-05-01 10:39:21,467 INFO  [Log] Excel File found 
+2016-05-01 10:39:21,530 INFO  [Log] A new excel workbook created 
+2016-05-01 10:39:21,531 INFO  [Log] Third excel sheet opened 
+2016-05-01 10:39:21,541 INFO  [Log] Set Browser from excel 
+2016-05-01 10:39:21,541 INFO  [Log] get all Cases That are marked Yes from 1st Sheet 
+2016-05-01 10:39:21,548 INFO  [Log] get all keywords that related to the test cases which are marked Yes 
+2016-05-01 10:39:21,645 INFO  [Log] browser name is:::chrome 
+2016-05-01 10:39:40,686 INFO  [Log] Browser initiated:::chrome 
+2016-05-01 10:39:40,686 INFO  [Log] WebDriver instance is set 
+2016-05-01 10:39:44,137 INFO  [Log] App is invoked:::http://api.skorkel.com/ 
+2016-05-01 10:39:44,196 INFO  [Log] Waiting for 10 Seconds 
+2016-05-01 10:39:46,121 INFO  [Log] Browser get Maximized 
+2016-05-01 10:39:46,124 INFO  [Log] $$$$$$$$$$$$-START-$$$$$$$$$$$$ 
+2016-05-01 10:39:46,124 INFO  [Log] Find Sign In Button 
+2016-05-01 10:39:46,263 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 10:39:46,386 INFO  [Log]  Object of Actions class is created 
+2016-05-01 10:39:46,486 INFO  [Log] Element Found 
+2016-05-01 10:39:46,711 INFO  [Log] Log in Link button is clicked 
+2016-05-01 10:39:46,742 INFO  [Log] pop up not handled properly 
+2016-05-01 10:39:46,791 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 10:39:46,841 INFO  [Log]  Object of Actions class is created 
+2016-05-01 10:39:46,917 INFO  [Log] Element Found 
+2016-05-01 10:39:47,089 INFO  [Log] Data sent to text field 
+2016-05-01 10:39:47,156 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 10:39:47,350 INFO  [Log]  Object of Actions class is created 
+2016-05-01 10:39:47,379 INFO  [Log] Element Found 
+2016-05-01 10:39:47,459 INFO  [Log] Data sent to text field 
+2016-05-01 10:39:47,589 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 10:39:47,659 INFO  [Log]  Object of Actions class is created 
+2016-05-01 10:40:03,846 INFO  [Log] Element Found 
+2016-05-01 10:57:08,736 INFO  [Log] Excel File found 
+2016-05-01 10:57:10,797 INFO  [Log] A new excel workbook created 
+2016-05-01 10:57:10,815 INFO  [Log] First excel sheet opened 
+2016-05-01 10:57:10,816 INFO  [Log] Excel File found 
+2016-05-01 10:57:10,918 INFO  [Log] A new excel workbook created 
+2016-05-01 10:57:10,918 INFO  [Log] Second excel sheet opened 
+2016-05-01 10:57:10,918 INFO  [Log] Excel File found 
+2016-05-01 10:57:11,014 INFO  [Log] A new excel workbook created 
+2016-05-01 10:57:11,014 INFO  [Log] Third excel sheet opened 
+2016-05-01 10:57:11,037 INFO  [Log] Set Browser from excel 
+2016-05-01 10:57:11,037 INFO  [Log] get all Cases That are marked Yes from 1st Sheet 
+2016-05-01 10:57:11,046 INFO  [Log] get all keywords that related to the test cases which are marked Yes 
+2016-05-01 10:57:11,188 INFO  [Log] browser name is:::chrome 
+2016-05-01 10:58:52,897 INFO  [Log] Browser initiated:::chrome 
+2016-05-01 10:58:52,897 INFO  [Log] WebDriver instance is set 
+2016-05-01 10:58:58,709 INFO  [Log] App is invoked:::http://api.skorkel.com/ 
+2016-05-01 10:58:58,768 INFO  [Log] Waiting for 10 Seconds 
+2016-05-01 10:59:03,815 INFO  [Log] Browser get Maximized 
+2016-05-01 10:59:03,817 INFO  [Log] $$$$$$$$$$$$-START-$$$$$$$$$$$$ 
+2016-05-01 10:59:03,817 INFO  [Log] Find Sign In Button 
+2016-05-01 10:59:04,189 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 10:59:04,386 INFO  [Log]  Object of Actions class is created 
+2016-05-01 10:59:04,511 INFO  [Log] Element Found 
+2016-05-01 10:59:04,756 INFO  [Log] Log in Link button is clicked 
+2016-05-01 10:59:04,810 INFO  [Log] pop up not handled properly 
+2016-05-01 10:59:04,873 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 10:59:04,926 INFO  [Log]  Object of Actions class is created 
+2016-05-01 10:59:05,072 INFO  [Log] Element Found 
+2016-05-01 10:59:05,707 INFO  [Log] Data sent to text field 
+2016-05-01 10:59:05,932 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 10:59:05,998 INFO  [Log]  Object of Actions class is created 
+2016-05-01 10:59:06,029 INFO  [Log] Element Found 
+2016-05-01 10:59:06,107 INFO  [Log] Data sent to text field 
+2016-05-01 10:59:06,181 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 10:59:06,243 INFO  [Log]  Object of Actions class is created 
+2016-05-01 10:59:19,720 INFO  [Log] Element Found 
+2016-05-01 12:02:01,899 INFO  [Log] Excel File found 
+2016-05-01 12:02:02,601 INFO  [Log] A new excel workbook created 
+2016-05-01 12:02:02,603 INFO  [Log] First excel sheet opened 
+2016-05-01 12:02:02,604 INFO  [Log] Excel File found 
+2016-05-01 12:02:02,683 INFO  [Log] A new excel workbook created 
+2016-05-01 12:02:02,683 INFO  [Log] Second excel sheet opened 
+2016-05-01 12:02:02,683 INFO  [Log] Excel File found 
+2016-05-01 12:02:02,744 INFO  [Log] A new excel workbook created 
+2016-05-01 12:02:02,745 INFO  [Log] Third excel sheet opened 
+2016-05-01 12:02:02,755 INFO  [Log] Set Browser from excel 
+2016-05-01 12:02:02,755 INFO  [Log] get all Cases That are marked Yes from 1st Sheet 
+2016-05-01 12:02:02,758 INFO  [Log] get all keywords that related to the test cases which are marked Yes 
+2016-05-01 12:02:02,939 INFO  [Log] browser name is:::chrome 
+2016-05-01 12:02:06,504 INFO  [Log] Browser initiated:::chrome 
+2016-05-01 12:02:06,513 INFO  [Log] WebDriver instance is set 
+2016-05-01 12:02:10,224 INFO  [Log] App is invoked:::http://api.skorkel.com/ 
+2016-05-01 12:02:10,243 INFO  [Log] Waiting for 10 Seconds 
+2016-05-01 12:02:10,920 INFO  [Log] Browser get Maximized 
+2016-05-01 12:02:10,921 INFO  [Log] $$$$$$$$$$$$-START-$$$$$$$$$$$$ 
+2016-05-01 12:02:10,921 INFO  [Log] Find Sign In Button 
+2016-05-01 12:02:10,932 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 12:02:10,993 INFO  [Log]  Object of Actions class is created 
+2016-05-01 12:02:11,030 INFO  [Log] Element Found 
+2016-05-01 12:02:11,279 INFO  [Log] Log in Link button is clicked 
+2016-05-01 12:02:11,295 INFO  [Log] pop up not handled properly 
+2016-05-01 12:02:11,352 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 12:02:11,403 INFO  [Log]  Object of Actions class is created 
+2016-05-01 12:02:11,432 INFO  [Log] Element Found 
+2016-05-01 12:02:11,565 INFO  [Log] Data sent to text field 
+2016-05-01 12:02:11,643 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 12:02:11,696 INFO  [Log]  Object of Actions class is created 
+2016-05-01 12:02:11,726 INFO  [Log] Element Found 
+2016-05-01 12:02:11,814 INFO  [Log] Data sent to text field 
+2016-05-01 12:02:11,885 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 12:02:11,943 INFO  [Log]  Object of Actions class is created 
+2016-05-01 12:02:28,280 INFO  [Log] Element Found 
+2016-05-01 12:04:53,325 INFO  [Log] Excel File found 
+2016-05-01 12:04:54,721 INFO  [Log] A new excel workbook created 
+2016-05-01 12:04:54,728 INFO  [Log] First excel sheet opened 
+2016-05-01 12:04:54,728 INFO  [Log] Excel File found 
+2016-05-01 12:04:54,828 INFO  [Log] A new excel workbook created 
+2016-05-01 12:04:54,828 INFO  [Log] Second excel sheet opened 
+2016-05-01 12:04:54,828 INFO  [Log] Excel File found 
+2016-05-01 12:04:54,981 INFO  [Log] A new excel workbook created 
+2016-05-01 12:04:54,981 INFO  [Log] Third excel sheet opened 
+2016-05-01 12:04:54,993 INFO  [Log] Set Browser from excel 
+2016-05-01 12:04:54,993 INFO  [Log] get all Cases That are marked Yes from 1st Sheet 
+2016-05-01 12:04:54,995 INFO  [Log] get all keywords that related to the test cases which are marked Yes 
+2016-05-01 12:04:55,258 INFO  [Log] browser name is:::chrome 
+2016-05-01 12:04:57,646 INFO  [Log] Browser initiated:::chrome 
+2016-05-01 12:04:57,646 INFO  [Log] WebDriver instance is set 
+2016-05-01 12:05:00,963 INFO  [Log] App is invoked:::http://api.skorkel.com/ 
+2016-05-01 12:05:00,979 INFO  [Log] Waiting for 10 Seconds 
+2016-05-01 12:05:01,554 INFO  [Log] Browser get Maximized 
+2016-05-01 12:05:01,555 INFO  [Log] $$$$$$$$$$$$-START-$$$$$$$$$$$$ 
+2016-05-01 12:05:01,555 INFO  [Log] Find Sign In Button 
+2016-05-01 12:05:01,562 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 12:05:01,623 INFO  [Log]  Object of Actions class is created 
+2016-05-01 12:05:01,658 INFO  [Log] Element Found 
+2016-05-01 12:05:01,834 INFO  [Log] Log in Link button is clicked 
+2016-05-01 12:05:01,847 INFO  [Log] pop up not handled properly 
+2016-05-01 12:05:01,916 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 12:05:01,978 INFO  [Log]  Object of Actions class is created 
+2016-05-01 12:05:02,050 INFO  [Log] Element Found 
+2016-05-01 12:05:02,187 INFO  [Log] Data sent to text field 
+2016-05-01 12:05:02,254 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 12:05:02,320 INFO  [Log]  Object of Actions class is created 
+2016-05-01 12:05:02,351 INFO  [Log] Element Found 
+2016-05-01 12:05:02,422 INFO  [Log] Data sent to text field 
+2016-05-01 12:05:02,495 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 12:05:02,550 INFO  [Log]  Object of Actions class is created 
+2016-05-01 12:05:16,613 INFO  [Log] Element Found 
+2016-05-01 12:08:03,283 INFO  [Log] Excel File found 
+2016-05-01 12:08:04,340 INFO  [Log] A new excel workbook created 
+2016-05-01 12:08:04,342 INFO  [Log] First excel sheet opened 
+2016-05-01 12:08:04,342 INFO  [Log] Excel File found 
+2016-05-01 12:08:04,414 INFO  [Log] A new excel workbook created 
+2016-05-01 12:08:04,414 INFO  [Log] Second excel sheet opened 
+2016-05-01 12:08:04,414 INFO  [Log] Excel File found 
+2016-05-01 12:08:04,466 INFO  [Log] A new excel workbook created 
+2016-05-01 12:08:04,466 INFO  [Log] Third excel sheet opened 
+2016-05-01 12:08:04,474 INFO  [Log] Set Browser from excel 
+2016-05-01 12:08:04,474 INFO  [Log] get all Cases That are marked Yes from 1st Sheet 
+2016-05-01 12:08:04,477 INFO  [Log] get all keywords that related to the test cases which are marked Yes 
+2016-05-01 12:08:04,563 INFO  [Log] browser name is:::chrome 
+2016-05-01 12:08:08,086 INFO  [Log] Browser initiated:::chrome 
+2016-05-01 12:08:08,086 INFO  [Log] WebDriver instance is set 
+2016-05-01 12:08:11,690 INFO  [Log] App is invoked:::http://api.skorkel.com/ 
+2016-05-01 12:08:11,709 INFO  [Log] Waiting for 10 Seconds 
+2016-05-01 12:08:12,313 INFO  [Log] Browser get Maximized 
+2016-05-01 12:08:12,314 INFO  [Log] $$$$$$$$$$$$-START-$$$$$$$$$$$$ 
+2016-05-01 12:08:12,314 INFO  [Log] Find Sign In Button 
+2016-05-01 12:08:12,322 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 12:08:12,381 INFO  [Log]  Object of Actions class is created 
+2016-05-01 12:08:12,417 INFO  [Log] Element Found 
+2016-05-01 12:08:12,585 INFO  [Log] Log in Link button is clicked 
+2016-05-01 12:08:12,596 INFO  [Log] pop up not handled properly 
+2016-05-01 12:08:12,651 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 12:08:12,704 INFO  [Log]  Object of Actions class is created 
+2016-05-01 12:08:12,749 INFO  [Log] Element Found 
+2016-05-01 12:08:12,872 INFO  [Log] Data sent to text field 
+2016-05-01 12:08:12,938 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 12:08:12,991 INFO  [Log]  Object of Actions class is created 
+2016-05-01 12:08:13,020 INFO  [Log] Element Found 
+2016-05-01 12:08:13,116 INFO  [Log] Data sent to text field 
+2016-05-01 12:08:13,179 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 12:08:13,233 INFO  [Log]  Object of Actions class is created 
+2016-05-01 12:08:26,572 INFO  [Log] Element Found 
+2016-05-01 12:19:28,912 INFO  [Log] Excel File found 
+2016-05-01 12:19:29,974 INFO  [Log] A new excel workbook created 
+2016-05-01 12:19:29,977 INFO  [Log] First excel sheet opened 
+2016-05-01 12:19:29,978 INFO  [Log] Excel File found 
+2016-05-01 12:19:30,049 INFO  [Log] A new excel workbook created 
+2016-05-01 12:19:30,049 INFO  [Log] Second excel sheet opened 
+2016-05-01 12:19:30,050 INFO  [Log] Excel File found 
+2016-05-01 12:19:30,112 INFO  [Log] A new excel workbook created 
+2016-05-01 12:19:30,112 INFO  [Log] Third excel sheet opened 
+2016-05-01 12:19:30,121 INFO  [Log] Set Browser from excel 
+2016-05-01 12:19:30,121 INFO  [Log] get all Cases That are marked Yes from 1st Sheet 
+2016-05-01 12:19:30,123 INFO  [Log] get all keywords that related to the test cases which are marked Yes 
+2016-05-01 12:19:30,213 INFO  [Log] browser name is:::chrome 
+2016-05-01 12:19:32,837 INFO  [Log] Browser initiated:::chrome 
+2016-05-01 12:19:32,837 INFO  [Log] WebDriver instance is set 
+2016-05-01 12:19:38,711 INFO  [Log] App is invoked:::http://api.skorkel.com/ 
+2016-05-01 12:19:38,723 INFO  [Log] Waiting for 10 Seconds 
+2016-05-01 12:19:39,308 INFO  [Log] Browser get Maximized 
+2016-05-01 12:19:39,309 INFO  [Log] $$$$$$$$$$$$-START-$$$$$$$$$$$$ 
+2016-05-01 12:19:39,309 INFO  [Log] Find Sign In Button 
+2016-05-01 12:19:39,316 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 12:19:39,376 INFO  [Log]  Object of Actions class is created 
+2016-05-01 12:19:39,410 INFO  [Log] Element Found 
+2016-05-01 12:19:39,669 INFO  [Log] Log in Link button is clicked 
+2016-05-01 12:19:39,686 INFO  [Log] pop up not handled properly 
+2016-05-01 12:19:39,762 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 12:19:39,840 INFO  [Log]  Object of Actions class is created 
+2016-05-01 12:19:39,871 INFO  [Log] Element Found 
+2016-05-01 12:19:39,998 INFO  [Log] Data sent to text field 
+2016-05-01 12:19:40,079 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 12:19:40,129 INFO  [Log]  Object of Actions class is created 
+2016-05-01 12:19:40,157 INFO  [Log] Element Found 
+2016-05-01 12:19:40,226 INFO  [Log] Data sent to text field 
+2016-05-01 12:19:40,288 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 12:19:40,342 INFO  [Log]  Object of Actions class is created 
+2016-05-01 12:19:40,381 INFO  [Log] Element Found 
+2016-05-01 12:25:55,530 INFO  [Log] Excel File found 
+2016-05-01 12:25:56,749 INFO  [Log] A new excel workbook created 
+2016-05-01 12:25:56,752 INFO  [Log] First excel sheet opened 
+2016-05-01 12:25:56,752 INFO  [Log] Excel File found 
+2016-05-01 12:25:56,875 INFO  [Log] A new excel workbook created 
+2016-05-01 12:25:56,875 INFO  [Log] Second excel sheet opened 
+2016-05-01 12:25:56,876 INFO  [Log] Excel File found 
+2016-05-01 12:25:56,971 INFO  [Log] A new excel workbook created 
+2016-05-01 12:25:56,971 INFO  [Log] Third excel sheet opened 
+2016-05-01 12:25:56,981 INFO  [Log] Set Browser from excel 
+2016-05-01 12:25:56,981 INFO  [Log] get all Cases That are marked Yes from 1st Sheet 
+2016-05-01 12:25:56,983 INFO  [Log] get all keywords that related to the test cases which are marked Yes 
+2016-05-01 12:25:57,096 INFO  [Log] browser name is:::chrome 
+2016-05-01 12:25:59,652 INFO  [Log] Browser initiated:::chrome 
+2016-05-01 12:25:59,652 INFO  [Log] WebDriver instance is set 
+2016-05-01 12:26:02,425 INFO  [Log] App is invoked:::http://api.skorkel.com/ 
+2016-05-01 12:26:02,437 INFO  [Log] Waiting for 10 Seconds 
+2016-05-01 12:26:03,173 INFO  [Log] Browser get Maximized 
+2016-05-01 12:26:03,175 INFO  [Log] $$$$$$$$$$$$-START-$$$$$$$$$$$$ 
+2016-05-01 12:26:03,176 INFO  [Log] Find Sign In Button 
+2016-05-01 12:26:03,190 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 12:26:03,292 INFO  [Log]  Object of Actions class is created 
+2016-05-01 12:26:03,336 INFO  [Log] Element Found 
+2016-05-01 12:26:04,682 INFO  [Log] Log in Link button is clicked 
+2016-05-01 12:26:04,713 INFO  [Log] pop up not handled properly 
+2016-05-01 12:26:04,782 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 12:26:04,833 INFO  [Log]  Object of Actions class is created 
+2016-05-01 12:26:04,862 INFO  [Log] Element Found 
+2016-05-01 12:26:04,983 INFO  [Log] Data sent to text field 
+2016-05-01 12:26:05,074 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 12:26:05,132 INFO  [Log]  Object of Actions class is created 
+2016-05-01 12:26:05,166 INFO  [Log] Element Found 
+2016-05-01 12:26:05,247 INFO  [Log] Data sent to text field 
+2016-05-01 12:26:05,331 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 12:26:05,447 INFO  [Log]  Object of Actions class is created 
+2016-05-01 12:26:19,362 INFO  [Log] Element Found 
+2016-05-01 12:28:43,504 INFO  [Log] Excel File found 
+2016-05-01 12:28:44,513 INFO  [Log] A new excel workbook created 
+2016-05-01 12:28:44,516 INFO  [Log] First excel sheet opened 
+2016-05-01 12:28:44,516 INFO  [Log] Excel File found 
+2016-05-01 12:28:44,630 INFO  [Log] A new excel workbook created 
+2016-05-01 12:28:44,630 INFO  [Log] Second excel sheet opened 
+2016-05-01 12:28:44,631 INFO  [Log] Excel File found 
+2016-05-01 12:28:44,713 INFO  [Log] A new excel workbook created 
+2016-05-01 12:28:44,713 INFO  [Log] Third excel sheet opened 
+2016-05-01 12:28:44,724 INFO  [Log] Set Browser from excel 
+2016-05-01 12:28:44,724 INFO  [Log] get all Cases That are marked Yes from 1st Sheet 
+2016-05-01 12:28:44,728 INFO  [Log] get all keywords that related to the test cases which are marked Yes 
+2016-05-01 12:28:44,841 INFO  [Log] browser name is:::chrome 
+2016-05-01 12:28:49,164 INFO  [Log] Browser initiated:::chrome 
+2016-05-01 12:28:49,164 INFO  [Log] WebDriver instance is set 
+2016-05-01 12:28:52,446 INFO  [Log] App is invoked:::http://api.skorkel.com/ 
+2016-05-01 12:28:52,460 INFO  [Log] Waiting for 10 Seconds 
+2016-05-01 12:28:53,289 INFO  [Log] Browser get Maximized 
+2016-05-01 12:28:53,290 INFO  [Log] $$$$$$$$$$$$-START-$$$$$$$$$$$$ 
+2016-05-01 12:28:53,290 INFO  [Log] Find Sign In Button 
+2016-05-01 12:28:53,298 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 12:28:53,393 INFO  [Log]  Object of Actions class is created 
+2016-05-01 12:28:53,443 INFO  [Log] Element Found 
+2016-05-01 12:28:53,685 INFO  [Log] Log in Link button is clicked 
+2016-05-01 12:28:53,698 INFO  [Log] pop up not handled properly 
+2016-05-01 12:28:53,755 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 12:28:53,814 INFO  [Log]  Object of Actions class is created 
+2016-05-01 12:28:53,842 INFO  [Log] Element Found 
+2016-05-01 12:28:53,973 INFO  [Log] Data sent to text field 
+2016-05-01 12:28:54,051 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 12:28:54,100 INFO  [Log]  Object of Actions class is created 
+2016-05-01 12:28:54,130 INFO  [Log] Element Found 
+2016-05-01 12:28:54,219 INFO  [Log] Data sent to text field 
+2016-05-01 12:28:54,280 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 12:28:54,352 INFO  [Log]  Object of Actions class is created 
+2016-05-01 12:29:10,396 INFO  [Log] Element Found 
+2016-05-01 12:30:39,757 INFO  [Log] Excel File found 
+2016-05-01 12:30:40,635 INFO  [Log] A new excel workbook created 
+2016-05-01 12:30:40,637 INFO  [Log] First excel sheet opened 
+2016-05-01 12:30:40,638 INFO  [Log] Excel File found 
+2016-05-01 12:30:40,743 INFO  [Log] A new excel workbook created 
+2016-05-01 12:30:40,743 INFO  [Log] Second excel sheet opened 
+2016-05-01 12:30:40,744 INFO  [Log] Excel File found 
+2016-05-01 12:30:40,839 INFO  [Log] A new excel workbook created 
+2016-05-01 12:30:40,839 INFO  [Log] Third excel sheet opened 
+2016-05-01 12:30:40,849 INFO  [Log] Set Browser from excel 
+2016-05-01 12:30:40,849 INFO  [Log] get all Cases That are marked Yes from 1st Sheet 
+2016-05-01 12:30:40,852 INFO  [Log] get all keywords that related to the test cases which are marked Yes 
+2016-05-01 12:30:40,952 INFO  [Log] browser name is:::chrome 
+2016-05-01 12:30:44,377 INFO  [Log] Browser initiated:::chrome 
+2016-05-01 12:30:44,377 INFO  [Log] WebDriver instance is set 
+2016-05-01 12:30:47,367 INFO  [Log] App is invoked:::http://api.skorkel.com/ 
+2016-05-01 12:30:47,378 INFO  [Log] Waiting for 10 Seconds 
+2016-05-01 12:30:47,955 INFO  [Log] Browser get Maximized 
+2016-05-01 12:30:47,956 INFO  [Log] $$$$$$$$$$$$-START-$$$$$$$$$$$$ 
+2016-05-01 12:30:47,956 INFO  [Log] Find Sign In Button 
+2016-05-01 12:30:47,965 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 12:30:48,025 INFO  [Log]  Object of Actions class is created 
+2016-05-01 12:30:48,060 INFO  [Log] Element Found 
+2016-05-01 12:30:48,213 INFO  [Log] Log in Link button is clicked 
+2016-05-01 12:30:48,227 INFO  [Log] pop up not handled properly 
+2016-05-01 12:30:48,281 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 12:30:48,333 INFO  [Log]  Object of Actions class is created 
+2016-05-01 12:30:48,363 INFO  [Log] Element Found 
+2016-05-01 12:30:48,503 INFO  [Log] Data sent to text field 
+2016-05-01 12:30:48,574 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 12:30:48,622 INFO  [Log]  Object of Actions class is created 
+2016-05-01 12:30:48,651 INFO  [Log] Element Found 
+2016-05-01 12:30:48,721 INFO  [Log] Data sent to text field 
+2016-05-01 12:30:48,770 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 12:30:48,834 INFO  [Log]  Object of Actions class is created 
+2016-05-01 12:30:48,871 INFO  [Log] Element Found 
+2016-05-01 12:32:07,156 INFO  [Log] Excel File found 
+2016-05-01 12:32:08,626 INFO  [Log] A new excel workbook created 
+2016-05-01 12:32:08,629 INFO  [Log] First excel sheet opened 
+2016-05-01 12:32:08,630 INFO  [Log] Excel File found 
+2016-05-01 12:32:08,738 INFO  [Log] A new excel workbook created 
+2016-05-01 12:32:08,738 INFO  [Log] Second excel sheet opened 
+2016-05-01 12:32:08,739 INFO  [Log] Excel File found 
+2016-05-01 12:32:08,810 INFO  [Log] A new excel workbook created 
+2016-05-01 12:32:08,811 INFO  [Log] Third excel sheet opened 
+2016-05-01 12:32:08,824 INFO  [Log] Set Browser from excel 
+2016-05-01 12:32:08,824 INFO  [Log] get all Cases That are marked Yes from 1st Sheet 
+2016-05-01 12:32:08,827 INFO  [Log] get all keywords that related to the test cases which are marked Yes 
+2016-05-01 12:32:08,959 INFO  [Log] browser name is:::chrome 
+2016-05-01 12:32:13,970 INFO  [Log] Browser initiated:::chrome 
+2016-05-01 12:32:13,970 INFO  [Log] WebDriver instance is set 
+2016-05-01 12:32:27,464 INFO  [Log] App is invoked:::http://api.skorkel.com/ 
+2016-05-01 12:32:27,477 INFO  [Log] Waiting for 10 Seconds 
+2016-05-01 12:32:28,271 INFO  [Log] Browser get Maximized 
+2016-05-01 12:32:28,274 INFO  [Log] $$$$$$$$$$$$-START-$$$$$$$$$$$$ 
+2016-05-01 12:32:28,274 INFO  [Log] Find Sign In Button 
+2016-05-01 12:32:28,284 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 12:32:28,384 INFO  [Log]  Object of Actions class is created 
+2016-05-01 12:32:28,436 INFO  [Log] Element Found 
+2016-05-01 12:32:28,704 INFO  [Log] Log in Link button is clicked 
+2016-05-01 12:32:28,727 INFO  [Log] pop up not handled properly 
+2016-05-01 12:32:28,819 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 12:32:28,888 INFO  [Log]  Object of Actions class is created 
+2016-05-01 12:32:28,933 INFO  [Log] Element Found 
+2016-05-01 12:32:29,076 INFO  [Log] Data sent to text field 
+2016-05-01 12:32:29,152 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 12:32:29,213 INFO  [Log]  Object of Actions class is created 
+2016-05-01 12:32:29,285 INFO  [Log] Element Found 
+2016-05-01 12:32:29,389 INFO  [Log] Data sent to text field 
+2016-05-01 12:32:29,444 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 12:32:29,501 INFO  [Log]  Object of Actions class is created 
+2016-05-01 12:32:45,714 INFO  [Log] Element Found 
+2016-05-01 12:39:05,682 INFO  [Log] Excel File found 
+2016-05-01 12:39:06,540 INFO  [Log] A new excel workbook created 
+2016-05-01 12:39:06,543 INFO  [Log] First excel sheet opened 
+2016-05-01 12:39:06,543 INFO  [Log] Excel File found 
+2016-05-01 12:39:06,615 INFO  [Log] A new excel workbook created 
+2016-05-01 12:39:06,615 INFO  [Log] Second excel sheet opened 
+2016-05-01 12:39:06,616 INFO  [Log] Excel File found 
+2016-05-01 12:39:06,673 INFO  [Log] A new excel workbook created 
+2016-05-01 12:39:06,673 INFO  [Log] Third excel sheet opened 
+2016-05-01 12:39:06,680 INFO  [Log] Set Browser from excel 
+2016-05-01 12:39:06,680 INFO  [Log] get all Cases That are marked Yes from 1st Sheet 
+2016-05-01 12:39:06,682 INFO  [Log] get all keywords that related to the test cases which are marked Yes 
+2016-05-01 12:39:06,777 INFO  [Log] browser name is:::chrome 
+2016-05-01 12:39:10,149 INFO  [Log] Browser initiated:::chrome 
+2016-05-01 12:39:10,149 INFO  [Log] WebDriver instance is set 
+2016-05-01 12:39:13,565 INFO  [Log] App is invoked:::http://api.skorkel.com/ 
+2016-05-01 12:39:13,580 INFO  [Log] Waiting for 10 Seconds 
+2016-05-01 12:39:14,155 INFO  [Log] Browser get Maximized 
+2016-05-01 12:39:14,156 INFO  [Log] $$$$$$$$$$$$-START-$$$$$$$$$$$$ 
+2016-05-01 12:39:14,156 INFO  [Log] Find Sign In Button 
+2016-05-01 12:39:14,162 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 12:39:14,221 INFO  [Log] Element Found 
+2016-05-01 12:39:14,346 INFO  [Log] Log in Link button is clicked 
+2016-05-01 12:39:14,360 INFO  [Log] pop up not handled properly 
+2016-05-01 12:39:14,437 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 12:39:14,492 INFO  [Log] Element Found 
+2016-05-01 12:39:14,626 INFO  [Log] Data sent to text field 
+2016-05-01 12:39:14,702 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 12:39:14,750 INFO  [Log] Element Found 
+2016-05-01 12:39:14,839 INFO  [Log] Data sent to text field 
+2016-05-01 12:39:14,914 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 12:39:14,963 INFO  [Log] Element Found 
+2016-05-01 12:39:26,679 INFO  [Log] Logged In.. 
+2016-05-01 12:39:26,679 INFO  [Log] $$$$$$$$$$$$-END-$$$$$$$$$$$$ 
+2016-05-01 12:39:26,679 INFO  [Log] Test Execution Ends 
+2016-05-01 14:47:04,510 INFO  [Log] browser name is:::chrome 
+2016-05-01 14:47:08,389 INFO  [Log] Browser initiated:::chrome 
+2016-05-01 14:47:08,390 INFO  [Log] WebDriver instance is set 
+2016-05-01 14:47:15,699 INFO  [Log] App is invoked:::http://api.skorkel.com/ 
+2016-05-01 14:47:15,709 INFO  [Log] Waiting for 10 Seconds 
+2016-05-01 14:47:16,859 INFO  [Log] Browser get Maximized 
+2016-05-01 14:47:16,859 INFO  [Log] $$$$$$$$$$$$-START-$$$$$$$$$$$$ 
+2016-05-01 14:47:16,859 INFO  [Log] Find Sign In Button 
+2016-05-01 14:47:16,869 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 14:47:16,932 INFO  [Log] Element Found 
+2016-05-01 14:47:17,106 INFO  [Log] Log in Link button is clicked 
+2016-05-01 14:47:17,122 INFO  [Log] pop up not handled properly 
+2016-05-01 14:47:17,218 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 14:47:17,287 INFO  [Log] Element Found 
+2016-05-01 14:47:17,438 INFO  [Log] Data sent to text field 
+2016-05-01 14:47:17,514 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 14:47:17,571 INFO  [Log] Element Found 
+2016-05-01 14:47:17,640 INFO  [Log] Data sent to text field 
+2016-05-01 14:47:17,711 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 14:47:17,779 INFO  [Log] Element Found 
+2016-05-01 14:47:53,718 INFO  [Log] Logged In.. 
+2016-05-01 14:47:53,718 INFO  [Log] $$$$$$$$$$$$-END-$$$$$$$$$$$$ 
+2016-05-01 14:47:53,718 INFO  [Log] Test Execution Ends 
+2016-05-01 14:50:07,073 INFO  [Log] browser name is:::chrome 
+2016-05-01 14:50:10,690 INFO  [Log] Browser initiated:::chrome 
+2016-05-01 14:50:10,690 INFO  [Log] WebDriver instance is set 
+2016-05-01 14:50:14,713 INFO  [Log] App is invoked:::http://api.skorkel.com/ 
+2016-05-01 14:50:14,722 INFO  [Log] Waiting for 10 Seconds 
+2016-05-01 14:50:15,256 INFO  [Log] Browser get Maximized 
+2016-05-01 14:50:15,256 INFO  [Log] $$$$$$$$$$$$-START-$$$$$$$$$$$$ 
+2016-05-01 14:50:15,257 INFO  [Log] Find Sign In Button 
+2016-05-01 14:50:15,264 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 14:50:15,323 INFO  [Log] Element Found 
+2016-05-01 14:50:15,464 INFO  [Log] Log in Link button is clicked 
+2016-05-01 14:50:15,483 INFO  [Log] pop up not handled properly 
+2016-05-01 14:50:15,570 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 14:50:15,635 INFO  [Log] Element Found 
+2016-05-01 14:50:15,764 INFO  [Log] Data sent to text field 
+2016-05-01 14:50:15,852 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 14:50:15,918 INFO  [Log] Element Found 
+2016-05-01 14:50:15,983 INFO  [Log] Data sent to text field 
+2016-05-01 14:50:16,049 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 14:50:16,104 INFO  [Log] Element Found 
+2016-05-01 14:50:30,090 INFO  [Log] Logged In.. 
+2016-05-01 14:50:30,090 INFO  [Log] $$$$$$$$$$$$-END-$$$$$$$$$$$$ 
+2016-05-01 14:50:30,090 INFO  [Log] Test Execution Ends 
+2016-05-01 14:52:59,966 INFO  [Log] Excel File found 
+2016-05-01 14:53:00,934 INFO  [Log] A new excel workbook created 
+2016-05-01 14:53:00,936 INFO  [Log] First excel sheet opened 
+2016-05-01 14:53:00,937 INFO  [Log] Excel File found 
+2016-05-01 14:53:01,011 INFO  [Log] A new excel workbook created 
+2016-05-01 14:53:01,011 INFO  [Log] Second excel sheet opened 
+2016-05-01 14:53:01,012 INFO  [Log] Excel File found 
+2016-05-01 14:53:01,076 INFO  [Log] A new excel workbook created 
+2016-05-01 14:53:01,076 INFO  [Log] Third excel sheet opened 
+2016-05-01 14:53:01,086 INFO  [Log] Set Browser from excel 
+2016-05-01 14:53:01,087 INFO  [Log] get all Cases That are marked Yes from 1st Sheet 
+2016-05-01 14:53:01,089 INFO  [Log] get all keywords that related to the test cases which are marked Yes 
+2016-05-01 14:53:01,189 INFO  [Log] browser name is:::chrome 
+2016-05-01 14:53:05,002 INFO  [Log] Browser initiated:::chrome 
+2016-05-01 14:53:05,002 INFO  [Log] WebDriver instance is set 
+2016-05-01 14:53:08,757 INFO  [Log] App is invoked:::http://api.skorkel.com/ 
+2016-05-01 14:53:08,775 INFO  [Log] Waiting for 10 Seconds 
+2016-05-01 14:53:09,355 INFO  [Log] Browser get Maximized 
+2016-05-01 14:53:09,356 INFO  [Log] $$$$$$$$$$$$-START-$$$$$$$$$$$$ 
+2016-05-01 14:53:09,356 INFO  [Log] Find Sign In Button 
+2016-05-01 14:53:09,363 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 14:53:09,433 INFO  [Log] Element Found 
+2016-05-01 14:53:09,574 INFO  [Log] Log in Link button is clicked 
+2016-05-01 14:53:09,593 INFO  [Log] pop up not handled properly 
+2016-05-01 14:53:09,660 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 14:53:09,713 INFO  [Log] Element Found 
+2016-05-01 14:53:09,839 INFO  [Log] Data sent to text field 
+2016-05-01 14:53:09,911 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 14:53:09,966 INFO  [Log] Element Found 
+2016-05-01 14:53:10,040 INFO  [Log] Data sent to text field 
+2016-05-01 14:53:10,126 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 14:53:10,183 INFO  [Log] Element Found 
+2016-05-01 14:53:23,862 INFO  [Log] Logged In.. 
+2016-05-01 14:53:23,862 INFO  [Log] $$$$$$$$$$$$-END-$$$$$$$$$$$$ 
+2016-05-01 14:53:23,862 INFO  [Log] Test Execution Ends 
+2016-05-01 14:54:30,495 INFO  [Log] Excel File found 
+2016-05-01 14:54:31,515 INFO  [Log] A new excel workbook created 
+2016-05-01 14:54:31,517 INFO  [Log] First excel sheet opened 
+2016-05-01 14:54:31,517 INFO  [Log] Excel File found 
+2016-05-01 14:54:31,593 INFO  [Log] A new excel workbook created 
+2016-05-01 14:54:31,593 INFO  [Log] Second excel sheet opened 
+2016-05-01 14:54:31,594 INFO  [Log] Excel File found 
+2016-05-01 14:54:31,654 INFO  [Log] A new excel workbook created 
+2016-05-01 14:54:31,654 INFO  [Log] Third excel sheet opened 
+2016-05-01 14:54:31,664 INFO  [Log] Set Browser from excel 
+2016-05-01 14:54:31,664 INFO  [Log] get all Cases That are marked Yes from 1st Sheet 
+2016-05-01 14:54:31,667 INFO  [Log] get all keywords that related to the test cases which are marked Yes 
+2016-05-01 14:54:31,758 INFO  [Log] browser name is:::chrome 
+2016-05-01 14:54:35,162 INFO  [Log] Browser initiated:::chrome 
+2016-05-01 14:54:35,162 INFO  [Log] WebDriver instance is set 
+2016-05-01 14:54:39,613 INFO  [Log] App is invoked:::http://api.skorkel.com/ 
+2016-05-01 14:54:39,623 INFO  [Log] Waiting for 10 Seconds 
+2016-05-01 14:54:40,179 INFO  [Log] Browser get Maximized 
+2016-05-01 14:54:40,180 INFO  [Log] $$$$$$$$$$$$-START-$$$$$$$$$$$$ 
+2016-05-01 14:54:40,180 INFO  [Log] Find Sign In Button 
+2016-05-01 14:54:40,188 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 14:54:40,248 INFO  [Log] Element Found 
+2016-05-01 14:54:40,379 INFO  [Log] Log in Link button is clicked 
+2016-05-01 14:54:40,392 INFO  [Log] pop up not handled properly 
+2016-05-01 14:54:40,505 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 14:54:40,560 INFO  [Log] Element Found 
+2016-05-01 14:54:40,697 INFO  [Log] Data sent to text field 
+2016-05-01 14:54:40,781 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 14:54:40,838 INFO  [Log] Element Found 
+2016-05-01 14:54:40,923 INFO  [Log] Data sent to text field 
+2016-05-01 14:54:40,981 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 14:54:41,036 INFO  [Log] Element Found 
+2016-05-01 14:54:47,656 INFO  [Log] Logged In.. 
+2016-05-01 14:54:47,656 INFO  [Log] $$$$$$$$$$$$-END-$$$$$$$$$$$$ 
+2016-05-01 14:54:47,656 INFO  [Log] Test Execution Ends 
+2016-05-01 14:55:57,110 INFO  [Log] Excel File found 
+2016-05-01 14:55:58,243 INFO  [Log] A new excel workbook created 
+2016-05-01 14:55:58,245 INFO  [Log] First excel sheet opened 
+2016-05-01 14:55:58,245 INFO  [Log] Excel File found 
+2016-05-01 14:55:58,320 INFO  [Log] A new excel workbook created 
+2016-05-01 14:55:58,320 INFO  [Log] Second excel sheet opened 
+2016-05-01 14:55:58,321 INFO  [Log] Excel File found 
+2016-05-01 14:55:58,384 INFO  [Log] A new excel workbook created 
+2016-05-01 14:55:58,384 INFO  [Log] Third excel sheet opened 
+2016-05-01 14:55:58,394 INFO  [Log] Set Browser from excel 
+2016-05-01 14:55:58,394 INFO  [Log] get all Cases That are marked Yes from 1st Sheet 
+2016-05-01 14:55:58,397 INFO  [Log] get all keywords that related to the test cases which are marked Yes 
+2016-05-01 14:55:58,496 INFO  [Log] browser name is:::chrome 
+2016-05-01 14:56:01,868 INFO  [Log] Browser initiated:::chrome 
+2016-05-01 14:56:01,868 INFO  [Log] WebDriver instance is set 
+2016-05-01 14:56:05,392 INFO  [Log] App is invoked:::http://api.skorkel.com/ 
+2016-05-01 14:56:05,407 INFO  [Log] Waiting for 10 Seconds 
+2016-05-01 14:56:06,012 INFO  [Log] Browser get Maximized 
+2016-05-01 14:56:06,013 INFO  [Log] $$$$$$$$$$$$-START-$$$$$$$$$$$$ 
+2016-05-01 14:56:06,013 INFO  [Log] Find Sign In Button 
+2016-05-01 14:56:06,020 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 14:56:06,080 INFO  [Log] Element Found 
+2016-05-01 14:56:06,220 INFO  [Log] Log in Link button is clicked 
+2016-05-01 14:56:06,236 INFO  [Log] pop up not handled properly 
+2016-05-01 14:56:06,310 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 14:56:06,368 INFO  [Log] Element Found 
+2016-05-01 14:56:06,513 INFO  [Log] Data sent to text field 
+2016-05-01 14:56:06,631 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 14:56:06,738 INFO  [Log] Element Found 
+2016-05-01 14:56:06,846 INFO  [Log] Data sent to text field 
+2016-05-01 14:56:06,909 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 14:56:06,975 INFO  [Log] Element Found 
+2016-05-01 14:56:35,859 INFO  [Log] Logged In.. 
+2016-05-01 14:56:35,859 INFO  [Log] $$$$$$$$$$$$-END-$$$$$$$$$$$$ 
+2016-05-01 14:56:35,860 INFO  [Log] Test Execution Ends 
+2016-05-01 14:58:22,931 INFO  [Log] Excel File found 
+2016-05-01 14:58:23,863 INFO  [Log] A new excel workbook created 
+2016-05-01 14:58:23,865 INFO  [Log] First excel sheet opened 
+2016-05-01 14:58:23,865 INFO  [Log] Excel File found 
+2016-05-01 14:58:23,938 INFO  [Log] A new excel workbook created 
+2016-05-01 14:58:23,938 INFO  [Log] Second excel sheet opened 
+2016-05-01 14:58:23,939 INFO  [Log] Excel File found 
+2016-05-01 14:58:23,999 INFO  [Log] A new excel workbook created 
+2016-05-01 14:58:24,000 INFO  [Log] Third excel sheet opened 
+2016-05-01 14:58:24,010 INFO  [Log] Set Browser from excel 
+2016-05-01 14:58:24,010 INFO  [Log] get all Cases That are marked Yes from 1st Sheet 
+2016-05-01 14:58:24,013 INFO  [Log] get all keywords that related to the test cases which are marked Yes 
+2016-05-01 14:58:24,148 INFO  [Log] browser name is:::chrome 
+2016-05-01 14:58:28,005 INFO  [Log] Browser initiated:::chrome 
+2016-05-01 14:58:28,006 INFO  [Log] WebDriver instance is set 
+2016-05-01 14:58:35,353 INFO  [Log] App is invoked:::http://api.skorkel.com/ 
+2016-05-01 14:58:35,363 INFO  [Log] Waiting for 10 Seconds 
+2016-05-01 14:58:35,918 INFO  [Log] Browser get Maximized 
+2016-05-01 14:58:35,918 INFO  [Log] $$$$$$$$$$$$-START-$$$$$$$$$$$$ 
+2016-05-01 14:58:35,918 INFO  [Log] Find Sign In Button 
+2016-05-01 14:58:35,926 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 14:58:35,989 INFO  [Log] Element Found 
+2016-05-01 14:58:36,140 INFO  [Log] Log in Link button is clicked 
+2016-05-01 14:58:36,155 INFO  [Log] pop up not handled properly 
+2016-05-01 14:58:36,251 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 14:58:36,312 INFO  [Log] Element Found 
+2016-05-01 14:58:36,451 INFO  [Log] Data sent to text field 
+2016-05-01 14:58:36,537 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 14:58:36,595 INFO  [Log] Element Found 
+2016-05-01 14:58:36,664 INFO  [Log] Data sent to text field 
+2016-05-01 14:58:36,733 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 14:58:36,784 INFO  [Log] Element Found 
+2016-05-01 14:59:11,054 INFO  [Log] Logged In.. 
+2016-05-01 14:59:11,055 INFO  [Log] $$$$$$$$$$$$-END-$$$$$$$$$$$$ 
+2016-05-01 14:59:11,055 INFO  [Log] Test Execution Ends 
+2016-05-01 15:11:46,432 INFO  [Log] Excel File found 
+2016-05-01 15:11:47,468 INFO  [Log] A new excel workbook created 
+2016-05-01 15:11:47,470 INFO  [Log] First excel sheet opened 
+2016-05-01 15:11:47,471 INFO  [Log] Excel File found 
+2016-05-01 15:11:47,559 INFO  [Log] A new excel workbook created 
+2016-05-01 15:11:47,559 INFO  [Log] Second excel sheet opened 
+2016-05-01 15:11:47,559 INFO  [Log] Excel File found 
+2016-05-01 15:11:47,625 INFO  [Log] A new excel workbook created 
+2016-05-01 15:11:47,625 INFO  [Log] Third excel sheet opened 
+2016-05-01 15:11:47,634 INFO  [Log] Set Browser from excel 
+2016-05-01 15:11:47,634 INFO  [Log] get all Cases That are marked Yes from 1st Sheet 
+2016-05-01 15:11:47,637 INFO  [Log] get all keywords that related to the test cases which are marked Yes 
+2016-05-01 15:11:47,765 INFO  [Log] browser name is:::chrome 
+2016-05-01 15:11:50,355 INFO  [Log] Browser initiated:::chrome 
+2016-05-01 15:11:50,355 INFO  [Log] WebDriver instance is set 
+2016-05-01 15:11:54,652 INFO  [Log] App is invoked:::http://api.skorkel.com/ 
+2016-05-01 15:11:54,670 INFO  [Log] Waiting for 10 Seconds 
+2016-05-01 15:11:55,233 INFO  [Log] Browser get Maximized 
+2016-05-01 15:11:55,234 INFO  [Log] $$$$$$$$$$$$-START-$$$$$$$$$$$$ 
+2016-05-01 15:11:55,234 INFO  [Log] Find Sign In Button 
+2016-05-01 15:11:55,243 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 15:11:55,300 INFO  [Log] Element Found 
+2016-05-01 15:11:55,437 INFO  [Log] Log in Link button is clicked 
+2016-05-01 15:11:55,463 INFO  [Log] pop up not handled properly 
+2016-05-01 15:11:55,535 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 15:11:55,594 INFO  [Log] Element Found 
+2016-05-01 15:11:55,728 INFO  [Log] Data sent to text field 
+2016-05-01 15:11:55,797 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 15:11:55,859 INFO  [Log] Element Found 
+2016-05-01 15:11:55,930 INFO  [Log] Data sent to text field 
+2016-05-01 15:11:56,008 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 15:11:56,063 INFO  [Log] Element Found 
+2016-05-01 15:12:13,885 INFO  [Log] Logged In.. 
+2016-05-01 15:12:13,885 INFO  [Log] $$$$$$$$$$$$-END-$$$$$$$$$$$$ 
+2016-05-01 15:12:13,885 INFO  [Log] Test Execution Ends 
+2016-05-01 15:12:48,727 INFO  [Log] Excel File found 
+2016-05-01 15:12:49,804 INFO  [Log] A new excel workbook created 
+2016-05-01 15:12:49,807 INFO  [Log] First excel sheet opened 
+2016-05-01 15:12:49,807 INFO  [Log] Excel File found 
+2016-05-01 15:12:49,887 INFO  [Log] A new excel workbook created 
+2016-05-01 15:12:49,887 INFO  [Log] Second excel sheet opened 
+2016-05-01 15:12:49,887 INFO  [Log] Excel File found 
+2016-05-01 15:12:49,949 INFO  [Log] A new excel workbook created 
+2016-05-01 15:12:49,949 INFO  [Log] Third excel sheet opened 
+2016-05-01 15:12:49,959 INFO  [Log] Set Browser from excel 
+2016-05-01 15:12:49,959 INFO  [Log] get all Cases That are marked Yes from 1st Sheet 
+2016-05-01 15:12:49,961 INFO  [Log] get all keywords that related to the test cases which are marked Yes 
+2016-05-01 15:12:50,062 INFO  [Log] browser name is:::chrome 
+2016-05-01 15:12:52,030 INFO  [Log] Browser initiated:::chrome 
+2016-05-01 15:12:52,030 INFO  [Log] WebDriver instance is set 
+2016-05-01 15:12:56,875 INFO  [Log] App is invoked:::http://api.skorkel.com/ 
+2016-05-01 15:12:56,891 INFO  [Log] Waiting for 10 Seconds 
+2016-05-01 15:12:57,452 INFO  [Log] Browser get Maximized 
+2016-05-01 15:12:57,453 INFO  [Log] $$$$$$$$$$$$-START-$$$$$$$$$$$$ 
+2016-05-01 15:12:57,453 INFO  [Log] Find Sign In Button 
+2016-05-01 15:12:57,461 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 15:12:57,519 INFO  [Log] Element Found 
+2016-05-01 15:12:57,655 INFO  [Log] Log in Link button is clicked 
+2016-05-01 15:12:57,668 INFO  [Log] pop up not handled properly 
+2016-05-01 15:12:57,744 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 15:12:57,802 INFO  [Log] Element Found 
+2016-05-01 15:12:57,934 INFO  [Log] Data sent to text field 
+2016-05-01 15:12:58,033 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 15:12:58,092 INFO  [Log] Element Found 
+2016-05-01 15:12:58,166 INFO  [Log] Data sent to text field 
+2016-05-01 15:12:58,236 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 15:12:58,284 INFO  [Log] Element Found 
+2016-05-01 15:13:06,477 INFO  [Log] Logged In.. 
+2016-05-01 15:13:06,478 INFO  [Log] $$$$$$$$$$$$-END-$$$$$$$$$$$$ 
+2016-05-01 15:13:06,478 INFO  [Log] Test Execution Ends 
+2016-05-01 15:15:37,349 INFO  [Log] Excel File found 
+2016-05-01 15:15:38,228 INFO  [Log] A new excel workbook created 
+2016-05-01 15:15:38,230 INFO  [Log] First excel sheet opened 
+2016-05-01 15:15:38,230 INFO  [Log] Excel File found 
+2016-05-01 15:15:38,303 INFO  [Log] A new excel workbook created 
+2016-05-01 15:15:38,303 INFO  [Log] Second excel sheet opened 
+2016-05-01 15:15:38,303 INFO  [Log] Excel File found 
+2016-05-01 15:15:38,361 INFO  [Log] A new excel workbook created 
+2016-05-01 15:15:38,361 INFO  [Log] Third excel sheet opened 
+2016-05-01 15:15:38,372 INFO  [Log] Set Browser from excel 
+2016-05-01 15:15:38,372 INFO  [Log] get all Cases That are marked Yes from 1st Sheet 
+2016-05-01 15:15:38,374 INFO  [Log] get all keywords that related to the test cases which are marked Yes 
+2016-05-01 15:15:38,478 INFO  [Log] browser name is:::chrome 
+2016-05-01 15:15:40,614 INFO  [Log] Browser initiated:::chrome 
+2016-05-01 15:15:40,614 INFO  [Log] WebDriver instance is set 
+2016-05-01 15:15:44,652 INFO  [Log] App is invoked:::http://api.skorkel.com/ 
+2016-05-01 15:15:44,663 INFO  [Log] Waiting for 10 Seconds 
+2016-05-01 15:15:45,358 INFO  [Log] Browser get Maximized 
+2016-05-01 15:15:45,359 INFO  [Log] $$$$$$$$$$$$-START-$$$$$$$$$$$$ 
+2016-05-01 15:15:45,359 INFO  [Log] Find Sign In Button 
+2016-05-01 15:15:45,367 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 15:15:45,425 INFO  [Log] Element Found 
+2016-05-01 15:15:45,551 INFO  [Log] Log in Link button is clicked 
+2016-05-01 15:15:45,566 INFO  [Log] pop up not handled properly 
+2016-05-01 15:15:45,633 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 15:15:45,700 INFO  [Log] Element Found 
+2016-05-01 15:15:45,823 INFO  [Log] Data sent to text field 
+2016-05-01 15:15:45,882 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 15:15:45,934 INFO  [Log] Element Found 
+2016-05-01 15:15:46,013 INFO  [Log] Data sent to text field 
+2016-05-01 15:15:46,084 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 15:15:46,135 INFO  [Log] Element Found 
+2016-05-01 15:15:47,965 INFO  [Log] Logged In.. 
+2016-05-01 15:15:47,965 INFO  [Log] $$$$$$$$$$$$-END-$$$$$$$$$$$$ 
+2016-05-01 15:15:47,965 INFO  [Log] Test Execution Ends 
+2016-05-01 15:21:43,940 INFO  [Log] Excel File found 
+2016-05-01 15:21:45,104 INFO  [Log] A new excel workbook created 
+2016-05-01 15:21:45,107 INFO  [Log] First excel sheet opened 
+2016-05-01 15:21:45,107 INFO  [Log] Excel File found 
+2016-05-01 15:21:45,197 INFO  [Log] A new excel workbook created 
+2016-05-01 15:21:45,197 INFO  [Log] Second excel sheet opened 
+2016-05-01 15:21:45,198 INFO  [Log] Excel File found 
+2016-05-01 15:21:45,300 INFO  [Log] A new excel workbook created 
+2016-05-01 15:21:45,300 INFO  [Log] Third excel sheet opened 
+2016-05-01 15:21:45,308 INFO  [Log] Set Browser from excel 
+2016-05-01 15:21:45,308 INFO  [Log] get all Cases That are marked Yes from 1st Sheet 
+2016-05-01 15:21:45,311 INFO  [Log] get all keywords that related to the test cases which are marked Yes 
+2016-05-01 15:21:45,422 INFO  [Log] browser name is:::chrome 
+2016-05-01 15:21:47,451 INFO  [Log] Browser initiated:::chrome 
+2016-05-01 15:21:47,451 INFO  [Log] WebDriver instance is set 
+2016-05-01 15:21:52,230 INFO  [Log] App is invoked:::http://api.skorkel.com/ 
+2016-05-01 15:21:52,239 INFO  [Log] Waiting for 10 Seconds 
+2016-05-01 15:21:52,798 INFO  [Log] Browser get Maximized 
+2016-05-01 15:21:52,802 INFO  [Log] $$$$$$$$$$$$-START-$$$$$$$$$$$$ 
+2016-05-01 15:21:52,802 INFO  [Log] Find Sign In Button 
+2016-05-01 15:21:52,811 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 15:21:52,876 INFO  [Log] Element Found 
+2016-05-01 15:21:53,018 INFO  [Log] Log in Link button is clicked 
+2016-05-01 15:21:53,031 INFO  [Log] pop up not handled properly 
+2016-05-01 15:21:53,097 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 15:21:53,150 INFO  [Log] Element Found 
+2016-05-01 15:21:53,270 INFO  [Log] Data sent to text field 
+2016-05-01 15:21:53,340 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 15:21:53,404 INFO  [Log] Element Found 
+2016-05-01 15:21:53,471 INFO  [Log] Data sent to text field 
+2016-05-01 15:21:53,540 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 15:21:53,598 INFO  [Log] Element Found 
+2016-05-01 15:22:26,507 INFO  [Log] Logged In.. 
+2016-05-01 15:22:26,508 INFO  [Log] $$$$$$$$$$$$-END-$$$$$$$$$$$$ 
+2016-05-01 15:22:26,508 INFO  [Log] Test Execution Ends 
+2016-05-01 15:24:30,884 INFO  [Log] Excel File found 
+2016-05-01 15:24:31,802 INFO  [Log] A new excel workbook created 
+2016-05-01 15:24:31,804 INFO  [Log] First excel sheet opened 
+2016-05-01 15:24:31,804 INFO  [Log] Excel File found 
+2016-05-01 15:24:31,885 INFO  [Log] A new excel workbook created 
+2016-05-01 15:24:31,885 INFO  [Log] Second excel sheet opened 
+2016-05-01 15:24:31,886 INFO  [Log] Excel File found 
+2016-05-01 15:24:31,948 INFO  [Log] A new excel workbook created 
+2016-05-01 15:24:31,948 INFO  [Log] Third excel sheet opened 
+2016-05-01 15:24:31,955 INFO  [Log] Set Browser from excel 
+2016-05-01 15:24:31,955 INFO  [Log] get all Cases That are marked Yes from 1st Sheet 
+2016-05-01 15:24:31,956 INFO  [Log] get all keywords that related to the test cases which are marked Yes 
+2016-05-01 15:24:32,075 INFO  [Log] browser name is:::chrome 
+2016-05-01 15:24:34,282 INFO  [Log] Browser initiated:::chrome 
+2016-05-01 15:24:34,282 INFO  [Log] WebDriver instance is set 
+2016-05-01 15:24:39,408 INFO  [Log] App is invoked:::http://api.skorkel.com/ 
+2016-05-01 15:24:39,424 INFO  [Log] Waiting for 10 Seconds 
+2016-05-01 15:24:39,982 INFO  [Log] Browser get Maximized 
+2016-05-01 15:24:39,986 INFO  [Log] $$$$$$$$$$$$-START-$$$$$$$$$$$$ 
+2016-05-01 15:24:39,986 INFO  [Log] Find Sign In Button 
+2016-05-01 15:24:39,994 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 15:24:40,051 INFO  [Log] Element Found 
+2016-05-01 15:24:40,175 INFO  [Log] Log in Link button is clicked 
+2016-05-01 15:24:40,189 INFO  [Log] pop up not handled properly 
+2016-05-01 15:24:40,260 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 15:24:40,315 INFO  [Log] Element Found 
+2016-05-01 15:24:40,432 INFO  [Log] Data sent to text field 
+2016-05-01 15:24:40,498 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 15:24:40,564 INFO  [Log] Element Found 
+2016-05-01 15:24:40,632 INFO  [Log] Data sent to text field 
+2016-05-01 15:24:40,688 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 15:24:40,740 INFO  [Log] Element Found 
+2016-05-01 15:25:12,680 INFO  [Log] Logged In.. 
+2016-05-01 15:25:12,680 INFO  [Log] $$$$$$$$$$$$-END-$$$$$$$$$$$$ 
+2016-05-01 15:25:12,680 INFO  [Log] Test Execution Ends 
+2016-05-01 15:34:27,187 INFO  [Log] Excel File found 
+2016-05-01 15:34:28,110 INFO  [Log] A new excel workbook created 
+2016-05-01 15:34:28,113 INFO  [Log] First excel sheet opened 
+2016-05-01 15:34:28,113 INFO  [Log] Excel File found 
+2016-05-01 15:34:28,193 INFO  [Log] A new excel workbook created 
+2016-05-01 15:34:28,193 INFO  [Log] Second excel sheet opened 
+2016-05-01 15:34:28,194 INFO  [Log] Excel File found 
+2016-05-01 15:34:28,255 INFO  [Log] A new excel workbook created 
+2016-05-01 15:34:28,255 INFO  [Log] Third excel sheet opened 
+2016-05-01 15:34:28,261 INFO  [Log] Set Browser from excel 
+2016-05-01 15:34:28,261 INFO  [Log] get all Cases That are marked Yes from 1st Sheet 
+2016-05-01 15:34:28,263 INFO  [Log] get all keywords that related to the test cases which are marked Yes 
+2016-05-01 15:34:28,359 INFO  [Log] browser name is:::chrome 
+2016-05-01 15:34:30,629 INFO  [Log] Browser initiated:::chrome 
+2016-05-01 15:34:30,629 INFO  [Log] WebDriver instance is set 
+2016-05-01 15:34:34,897 INFO  [Log] App is invoked:::http://api.skorkel.com/ 
+2016-05-01 15:34:34,917 INFO  [Log] Waiting for 10 Seconds 
+2016-05-01 15:34:35,718 INFO  [Log] Browser get Maximized 
+2016-05-01 15:34:35,720 INFO  [Log] $$$$$$$$$$$$-START-$$$$$$$$$$$$ 
+2016-05-01 15:34:35,720 INFO  [Log] Find Sign In Button 
+2016-05-01 15:34:35,730 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 15:34:35,835 INFO  [Log] Element Found 
+2016-05-01 15:34:36,069 INFO  [Log] Log in Link button is clicked 
+2016-05-01 15:34:36,096 INFO  [Log] pop up not handled properly 
+2016-05-01 15:34:36,173 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 15:34:36,227 INFO  [Log] Element Found 
+2016-05-01 15:34:36,353 INFO  [Log] Data sent to text field 
+2016-05-01 15:34:36,469 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 15:34:36,541 INFO  [Log] Element Found 
+2016-05-01 15:34:36,619 INFO  [Log] Data sent to text field 
+2016-05-01 15:34:36,700 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 15:34:36,756 INFO  [Log] Element Found 
+2016-05-01 15:35:09,036 INFO  [Log] Logged In.. 
+2016-05-01 15:35:09,036 INFO  [Log] $$$$$$$$$$$$-END-$$$$$$$$$$$$ 
+2016-05-01 15:35:09,036 INFO  [Log] Test Execution Ends 
+2016-05-01 15:35:53,215 INFO  [Log] Excel File found 
+2016-05-01 15:35:54,024 INFO  [Log] A new excel workbook created 
+2016-05-01 15:35:54,026 INFO  [Log] First excel sheet opened 
+2016-05-01 15:35:54,027 INFO  [Log] Excel File found 
+2016-05-01 15:35:54,103 INFO  [Log] A new excel workbook created 
+2016-05-01 15:35:54,103 INFO  [Log] Second excel sheet opened 
+2016-05-01 15:35:54,103 INFO  [Log] Excel File found 
+2016-05-01 15:35:54,166 INFO  [Log] A new excel workbook created 
+2016-05-01 15:35:54,166 INFO  [Log] Third excel sheet opened 
+2016-05-01 15:35:54,175 INFO  [Log] Set Browser from excel 
+2016-05-01 15:35:54,176 INFO  [Log] get all Cases That are marked Yes from 1st Sheet 
+2016-05-01 15:35:54,177 INFO  [Log] get all keywords that related to the test cases which are marked Yes 
+2016-05-01 15:35:54,298 INFO  [Log] browser name is:::chrome 
+2016-05-01 15:35:57,851 INFO  [Log] Browser initiated:::chrome 
+2016-05-01 15:35:57,851 INFO  [Log] WebDriver instance is set 
+2016-05-01 15:36:02,662 INFO  [Log] App is invoked:::http://api.skorkel.com/ 
+2016-05-01 15:36:02,680 INFO  [Log] Waiting for 10 Seconds 
+2016-05-01 15:36:03,246 INFO  [Log] Browser get Maximized 
+2016-05-01 15:36:03,248 INFO  [Log] $$$$$$$$$$$$-START-$$$$$$$$$$$$ 
+2016-05-01 15:36:03,248 INFO  [Log] Find Sign In Button 
+2016-05-01 15:36:03,255 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 15:36:03,314 INFO  [Log] Element Found 
+2016-05-01 15:36:03,457 INFO  [Log] Log in Link button is clicked 
+2016-05-01 15:36:03,472 INFO  [Log] pop up not handled properly 
+2016-05-01 15:36:03,549 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 15:36:03,608 INFO  [Log] Element Found 
+2016-05-01 15:36:03,751 INFO  [Log] Data sent to text field 
+2016-05-01 15:36:03,830 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 15:36:03,880 INFO  [Log] Element Found 
+2016-05-01 15:36:03,986 INFO  [Log] Data sent to text field 
+2016-05-01 15:36:04,112 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 15:36:04,170 INFO  [Log] Element Found 
+2016-05-01 15:36:35,019 INFO  [Log] Logged In.. 
+2016-05-01 15:36:35,019 INFO  [Log] $$$$$$$$$$$$-END-$$$$$$$$$$$$ 
+2016-05-01 15:36:35,019 INFO  [Log] Test Execution Ends 
+2016-05-01 15:36:35,076 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 15:36:35,135 INFO  [Log] Element Found 
+2016-05-01 15:36:35,135 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 15:36:35,188 INFO  [Log] Element Found 
+2016-05-01 15:36:35,363 INFO  [Log] Data sent to text field 
+2016-05-01 15:53:09,456 INFO  [Log] Excel File found 
+2016-05-01 15:53:10,429 INFO  [Log] A new excel workbook created 
+2016-05-01 15:53:10,431 INFO  [Log] First excel sheet opened 
+2016-05-01 15:53:10,431 INFO  [Log] Excel File found 
+2016-05-01 15:53:10,507 INFO  [Log] A new excel workbook created 
+2016-05-01 15:53:10,507 INFO  [Log] Second excel sheet opened 
+2016-05-01 15:53:10,507 INFO  [Log] Excel File found 
+2016-05-01 15:53:10,570 INFO  [Log] A new excel workbook created 
+2016-05-01 15:53:10,571 INFO  [Log] Third excel sheet opened 
+2016-05-01 15:53:10,581 INFO  [Log] Set Browser from excel 
+2016-05-01 15:53:10,581 INFO  [Log] get all Cases That are marked Yes from 1st Sheet 
+2016-05-01 15:53:10,584 INFO  [Log] get all keywords that related to the test cases which are marked Yes 
+2016-05-01 15:53:10,676 INFO  [Log] browser name is:::chrome 
+2016-05-01 15:53:13,193 INFO  [Log] Browser initiated:::chrome 
+2016-05-01 15:53:13,193 INFO  [Log] WebDriver instance is set 
+2016-05-01 15:53:16,755 INFO  [Log] App is invoked:::http://api.skorkel.com/ 
+2016-05-01 15:53:16,767 INFO  [Log] Waiting for 10 Seconds 
+2016-05-01 15:53:17,333 INFO  [Log] Browser get Maximized 
+2016-05-01 15:53:17,334 INFO  [Log] $$$$$$$$$$$$-START-$$$$$$$$$$$$ 
+2016-05-01 15:53:17,334 INFO  [Log] Find Sign In Button 
+2016-05-01 15:53:17,342 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 15:53:17,401 INFO  [Log] Element Found 
+2016-05-01 15:53:17,551 INFO  [Log] Log in Link button is clicked 
+2016-05-01 15:53:17,568 INFO  [Log] pop up not handled properly 
+2016-05-01 15:53:17,638 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 15:53:17,693 INFO  [Log] Element Found 
+2016-05-01 15:53:17,823 INFO  [Log] Data sent to text field 
+2016-05-01 15:53:17,895 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 15:53:17,945 INFO  [Log] Element Found 
+2016-05-01 15:53:18,021 INFO  [Log] Data sent to text field 
+2016-05-01 15:53:18,102 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 15:53:18,151 INFO  [Log] Element Found 
+2016-05-01 15:53:52,428 INFO  [Log] Logged In.. 
+2016-05-01 15:53:52,429 INFO  [Log] $$$$$$$$$$$$-END-$$$$$$$$$$$$ 
+2016-05-01 15:53:52,429 INFO  [Log] Test Execution Ends 
+2016-05-01 15:56:24,987 INFO  [Log] Excel File found 
+2016-05-01 15:56:26,425 INFO  [Log] A new excel workbook created 
+2016-05-01 15:56:26,427 INFO  [Log] First excel sheet opened 
+2016-05-01 15:56:26,427 INFO  [Log] Excel File found 
+2016-05-01 15:56:26,505 INFO  [Log] A new excel workbook created 
+2016-05-01 15:56:26,506 INFO  [Log] Second excel sheet opened 
+2016-05-01 15:56:26,506 INFO  [Log] Excel File found 
+2016-05-01 15:56:26,566 INFO  [Log] A new excel workbook created 
+2016-05-01 15:56:26,566 INFO  [Log] Third excel sheet opened 
+2016-05-01 15:56:26,577 INFO  [Log] Set Browser from excel 
+2016-05-01 15:56:26,577 INFO  [Log] get all Cases That are marked Yes from 1st Sheet 
+2016-05-01 15:56:26,580 INFO  [Log] get all keywords that related to the test cases which are marked Yes 
+2016-05-01 15:56:26,671 INFO  [Log] browser name is:::chrome 
+2016-05-01 15:56:30,634 INFO  [Log] Browser initiated:::chrome 
+2016-05-01 15:56:30,634 INFO  [Log] WebDriver instance is set 
+2016-05-01 15:56:34,959 INFO  [Log] App is invoked:::http://api.skorkel.com/ 
+2016-05-01 15:56:34,970 INFO  [Log] Waiting for 10 Seconds 
+2016-05-01 15:56:35,533 INFO  [Log] Browser get Maximized 
+2016-05-01 15:56:35,534 INFO  [Log] $$$$$$$$$$$$-START-$$$$$$$$$$$$ 
+2016-05-01 15:56:35,534 INFO  [Log] Find Sign In Button 
+2016-05-01 15:56:35,541 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 15:56:35,603 INFO  [Log] Element Found 
+2016-05-01 15:56:35,744 INFO  [Log] Log in Link button is clicked 
+2016-05-01 15:56:35,769 INFO  [Log] pop up not handled properly 
+2016-05-01 15:56:35,820 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 15:56:35,871 INFO  [Log] Element Found 
+2016-05-01 15:56:35,991 INFO  [Log] Data sent to text field 
+2016-05-01 15:56:36,079 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 15:56:36,127 INFO  [Log] Element Found 
+2016-05-01 15:56:36,200 INFO  [Log] Data sent to text field 
+2016-05-01 15:56:36,298 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 15:56:36,346 INFO  [Log] Element Found 
+2016-05-01 15:57:13,725 INFO  [Log] Logged In.. 
+2016-05-01 15:57:13,726 INFO  [Log] $$$$$$$$$$$$-END-$$$$$$$$$$$$ 
+2016-05-01 15:57:13,726 INFO  [Log] Test Execution Ends 
+2016-05-01 16:01:02,891 INFO  [Log] Excel File found 
+2016-05-01 16:01:04,022 INFO  [Log] A new excel workbook created 
+2016-05-01 16:01:04,025 INFO  [Log] First excel sheet opened 
+2016-05-01 16:01:04,025 INFO  [Log] Excel File found 
+2016-05-01 16:01:04,127 INFO  [Log] A new excel workbook created 
+2016-05-01 16:01:04,128 INFO  [Log] Second excel sheet opened 
+2016-05-01 16:01:04,128 INFO  [Log] Excel File found 
+2016-05-01 16:01:04,199 INFO  [Log] A new excel workbook created 
+2016-05-01 16:01:04,199 INFO  [Log] Third excel sheet opened 
+2016-05-01 16:01:04,209 INFO  [Log] Set Browser from excel 
+2016-05-01 16:01:04,209 INFO  [Log] get all Cases That are marked Yes from 1st Sheet 
+2016-05-01 16:01:04,212 INFO  [Log] get all keywords that related to the test cases which are marked Yes 
+2016-05-01 16:01:04,305 INFO  [Log] browser name is:::chrome 
+2016-05-01 16:01:07,858 INFO  [Log] Browser initiated:::chrome 
+2016-05-01 16:01:07,859 INFO  [Log] WebDriver instance is set 
+2016-05-01 16:01:13,751 INFO  [Log] App is invoked:::http://api.skorkel.com/ 
+2016-05-01 16:01:13,759 INFO  [Log] Waiting for 10 Seconds 
+2016-05-01 16:01:14,312 INFO  [Log] Browser get Maximized 
+2016-05-01 16:01:14,313 INFO  [Log] $$$$$$$$$$$$-START-$$$$$$$$$$$$ 
+2016-05-01 16:01:14,313 INFO  [Log] Find Sign In Button 
+2016-05-01 16:01:14,320 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 16:01:14,378 INFO  [Log] Element Found 
+2016-05-01 16:01:14,506 INFO  [Log] Log in Link button is clicked 
+2016-05-01 16:01:14,523 INFO  [Log] pop up not handled properly 
+2016-05-01 16:01:14,592 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 16:01:14,645 INFO  [Log] Element Found 
+2016-05-01 16:01:14,766 INFO  [Log] Data sent to text field 
+2016-05-01 16:01:14,839 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 16:01:14,894 INFO  [Log] Element Found 
+2016-05-01 16:01:14,967 INFO  [Log] Data sent to text field 
+2016-05-01 16:01:15,033 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 16:01:15,087 INFO  [Log] Element Found 
+2016-05-01 16:01:47,335 INFO  [Log] Logged In.. 
+2016-05-01 16:01:47,335 INFO  [Log] $$$$$$$$$$$$-END-$$$$$$$$$$$$ 
+2016-05-01 16:01:47,335 INFO  [Log] Test Execution Ends 
+2016-05-01 16:01:47,397 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 16:01:47,465 INFO  [Log] Element Found 
+2016-05-01 16:01:47,465 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 16:01:47,517 INFO  [Log] Element Found 
+2016-05-01 16:01:47,702 INFO  [Log] Data sent to text field 
+2016-05-01 16:01:47,811 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 16:01:47,852 INFO  [Log] Element Found 
+2016-05-01 16:01:47,852 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 16:01:47,892 INFO  [Log] Element Found 
+2016-05-01 16:01:48,079 INFO  [Log] Data sent to text field 
+2016-05-01 16:06:06,954 INFO  [Log] Excel File found 
+2016-05-01 16:06:08,288 INFO  [Log] A new excel workbook created 
+2016-05-01 16:06:08,291 INFO  [Log] First excel sheet opened 
+2016-05-01 16:06:08,291 INFO  [Log] Excel File found 
+2016-05-01 16:06:08,379 INFO  [Log] A new excel workbook created 
+2016-05-01 16:06:08,379 INFO  [Log] Second excel sheet opened 
+2016-05-01 16:06:08,380 INFO  [Log] Excel File found 
+2016-05-01 16:06:08,441 INFO  [Log] A new excel workbook created 
+2016-05-01 16:06:08,441 INFO  [Log] Third excel sheet opened 
+2016-05-01 16:06:08,451 INFO  [Log] Set Browser from excel 
+2016-05-01 16:06:08,451 INFO  [Log] get all Cases That are marked Yes from 1st Sheet 
+2016-05-01 16:06:08,454 INFO  [Log] get all keywords that related to the test cases which are marked Yes 
+2016-05-01 16:06:08,553 INFO  [Log] browser name is:::chrome 
+2016-05-01 16:06:11,813 INFO  [Log] Browser initiated:::chrome 
+2016-05-01 16:06:11,813 INFO  [Log] WebDriver instance is set 
+2016-05-01 16:06:15,258 INFO  [Log] App is invoked:::http://api.skorkel.com/ 
+2016-05-01 16:06:15,275 INFO  [Log] Waiting for 10 Seconds 
+2016-05-01 16:06:15,879 INFO  [Log] Browser get Maximized 
+2016-05-01 16:06:15,879 INFO  [Log] $$$$$$$$$$$$-START-$$$$$$$$$$$$ 
+2016-05-01 16:06:15,880 INFO  [Log] Find Sign In Button 
+2016-05-01 16:06:15,887 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 16:06:15,950 INFO  [Log] Element Found 
+2016-05-01 16:06:16,093 INFO  [Log] Log in Link button is clicked 
+2016-05-01 16:06:16,116 INFO  [Log] pop up not handled properly 
+2016-05-01 16:06:16,176 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 16:06:16,227 INFO  [Log] Element Found 
+2016-05-01 16:06:16,358 INFO  [Log] Data sent to text field 
+2016-05-01 16:06:16,440 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 16:06:16,490 INFO  [Log] Element Found 
+2016-05-01 16:06:16,564 INFO  [Log] Data sent to text field 
+2016-05-01 16:06:16,651 INFO  [Log]  Object of WebDriverWait created 
+2016-05-01 16:06:16,704 INFO  [Log] Element Found 
+2016-05-01 16:06:55,134 INFO  [Log] Logged In.. 
+2016-05-01 16:06:55,134 INFO  [Log] $$$$$$$$$$$$-END-$$$$$$$$$$$$ 
+2016-05-01 16:06:55,134 INFO  [Log] Test Execution Ends 
+2016-05-21 18:39:15,865 INFO  [Log] Excel File found 
+2016-05-21 18:39:17,046 INFO  [Log] A new excel workbook created 
+2016-05-21 18:39:17,058 INFO  [Log] First excel sheet opened 
+2016-05-21 18:39:17,059 INFO  [Log] Excel File found 
+2016-05-21 18:39:17,140 INFO  [Log] A new excel workbook created 
+2016-05-21 18:39:17,140 INFO  [Log] Second excel sheet opened 
+2016-05-21 18:39:17,141 INFO  [Log] Excel File found 
+2016-05-21 18:39:17,205 INFO  [Log] A new excel workbook created 
+2016-05-21 18:39:17,205 INFO  [Log] Third excel sheet opened 
+2016-05-21 18:39:17,257 INFO  [Log] Set Browser from excel 
+2016-05-21 18:39:17,257 INFO  [Log] get all Cases That are marked Yes from 1st Sheet 
+2016-05-21 18:39:17,259 INFO  [Log] get all keywords that related to the test cases which are marked Yes 
+2016-05-21 18:39:17,450 INFO  [Log] browser name is:::chrome 
+2016-05-21 18:39:33,225 INFO  [Log] Browser initiated:::chrome 
+2016-05-21 18:39:33,225 INFO  [Log] WebDriver instance is set 
+2016-05-21 18:39:37,490 INFO  [Log] App is invoked:::http://api.skorkel.com/ 
+2016-05-21 18:39:37,524 INFO  [Log] Waiting for 10 Seconds 
+2016-05-21 18:39:38,257 INFO  [Log] Browser get Maximized 
+2016-05-21 18:39:38,258 INFO  [Log] $$$$$$$$$$$$-START-$$$$$$$$$$$$ 
+2016-05-21 18:39:38,258 INFO  [Log] Find Sign In Button 
+2016-05-21 18:39:38,556 INFO  [Log] Log in Link button is clicked 
+2016-05-21 18:39:38,593 INFO  [Log] pop up not handled properly 
+2016-05-21 18:39:38,820 INFO  [Log] Data sent to text field 
+2016-05-21 18:39:39,063 INFO  [Log] Data sent to text field 
+2016-05-21 18:39:44,483 INFO  [Log] Logged In.. 
+2016-05-21 18:39:44,483 INFO  [Log] $$$$$$$$$$$$-END-$$$$$$$$$$$$ 
+2016-05-21 18:39:44,483 INFO  [Log] Test Execution Ends 
