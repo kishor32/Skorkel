@@ -1,70 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4fecda1-2add-4043-914a-d7121e090bda" name="Default" comment="Skorkel UI Automation">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-1-5-2016-10-12-45/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-1-5-2016-10-34-43/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-1-5-2016-10-39-17/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-1-5-2016-10-57-7/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-1-5-2016-12-19-28/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-1-5-2016-12-2-1/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-1-5-2016-12-25-55/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-1-5-2016-12-28-43/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-1-5-2016-12-30-39/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-1-5-2016-12-32-6/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-1-5-2016-12-39-5/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-1-5-2016-12-4-53/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-1-5-2016-12-8-3/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-1-5-2016-14-47-4/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-1-5-2016-14-50-6/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-1-5-2016-14-52-59/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-1-5-2016-14-54-30/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-1-5-2016-14-55-56/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-1-5-2016-14-58-22/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-1-5-2016-15-11-46/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-1-5-2016-15-12-48/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-1-5-2016-15-15-37/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-1-5-2016-15-21-43/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-1-5-2016-15-24-30/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-1-5-2016-15-34-26/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-1-5-2016-15-35-53/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-1-5-2016-15-53-9/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-1-5-2016-15-56-24/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-1-5-2016-16-1-2/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-1-5-2016-16-6-6/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-1-5-2016-9-15-16/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-1-5-2016-9-18-30/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-21-5-2016-18-39-15/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-29-4-2016-15-29-23/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-29-4-2016-15-52-24/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-29-4-2016-16-15-22/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-29-4-2016-16-30-51/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-29-4-2016-16-31-13/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-29-4-2016-16-36-31/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-29-4-2016-16-44-27/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-29-4-2016-16-44-4/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-29-4-2016-16-46-41/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-29-4-2016-17-23-42/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-29-4-2016-17-26-55/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-29-4-2016-17-27-53/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-29-4-2016-17-32-34/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-29-4-2016-17-33-54/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-29-4-2016-8-32-17/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-29-4-2016-8-48-56/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/Report-30-4-2016-3-3-34/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Data/~$RunManager.xlsx" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/skorkel/bussinesslogic/A_Login.class" afterPath="$PROJECT_DIR$/target/classes/com/skorkel/bussinesslogic/A_Login.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/skorkel/driver/App.class" afterPath="$PROJECT_DIR$/target/classes/com/skorkel/driver/App.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/skorkel/report/Report.class" afterPath="$PROJECT_DIR$/target/classes/com/skorkel/report/Report.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/skorkel/uioperation/UIInteraction.class" afterPath="$PROJECT_DIR$/target/classes/com/skorkel/uioperation/UIInteraction.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logfile.log" afterPath="$PROJECT_DIR$/logfile.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/skorkel/bussinesslogic/A_Login.java" afterPath="$PROJECT_DIR$/src/com/skorkel/bussinesslogic/A_Login.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/skorkel/driver/App.java" afterPath="$PROJECT_DIR$/src/com/skorkel/driver/App.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/skorkel/report/Report.java" afterPath="$PROJECT_DIR$/src/com/skorkel/report/Report.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/skorkel/uioperation/UIInteraction.java" afterPath="$PROJECT_DIR$/src/com/skorkel/uioperation/UIInteraction.java" />
-    </list>
+    <list default="true" id="b4fecda1-2add-4043-914a-d7121e090bda" name="Default" comment="Skorkel UI Automation" />
     <ignored path="AutoSelenium.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -716,7 +653,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1373" height="744" extended-state="1" />
+    <frame x="-8" y="0" width="1373" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
