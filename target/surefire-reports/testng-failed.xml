@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite1]">
+  <test name="Regression1">
+    <classes>
+      <class name="com.skorkel.driver.App"/>
+    </classes>
+  </test> <!-- Regression1 -->
+  <test name="Regression1(failed)">
+    <classes>
+      <class name="com.skorkel.bussinesslogic.B_Home">
+        <methods>
+          <include name="shareUpdate"/>
+        </methods>
+      </class> <!-- com.skorkel.bussinesslogic.B_Home -->
+    </classes>
+  </test> <!-- Regression1(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

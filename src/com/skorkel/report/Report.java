@@ -26,6 +26,7 @@ public class Report {
     }
 
     public ExtentReports getReport(){
+
         return report;
     }
 

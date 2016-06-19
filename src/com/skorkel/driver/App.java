@@ -110,6 +110,7 @@ public class App {
     }
 
     private void setReport(){
+
         Report.getInstance().setReport();
     }
 }

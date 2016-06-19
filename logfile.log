@@ -1084,3 +1084,189 @@
 2016-05-21 18:39:44,483 INFO  [Log] Logged In.. 
 2016-05-21 18:39:44,483 INFO  [Log] $$$$$$$$$$$$-END-$$$$$$$$$$$$ 
 2016-05-21 18:39:44,483 INFO  [Log] Test Execution Ends 
+2016-05-21 20:44:56,104 INFO  [Log] Excel File found 
+2016-05-21 20:44:59,277 INFO  [Log] A new excel workbook created 
+2016-05-21 20:44:59,282 INFO  [Log] First excel sheet opened 
+2016-05-21 20:44:59,283 INFO  [Log] Excel File found 
+2016-05-21 20:44:59,365 INFO  [Log] A new excel workbook created 
+2016-05-21 20:44:59,365 INFO  [Log] Second excel sheet opened 
+2016-05-21 20:44:59,366 INFO  [Log] Excel File found 
+2016-05-21 20:44:59,437 INFO  [Log] A new excel workbook created 
+2016-05-21 20:44:59,437 INFO  [Log] Third excel sheet opened 
+2016-05-21 20:44:59,484 INFO  [Log] Set Browser from excel 
+2016-05-21 20:44:59,484 INFO  [Log] get all Cases That are marked Yes from 1st Sheet 
+2016-05-21 20:44:59,487 INFO  [Log] get all keywords that related to the test cases which are marked Yes 
+2016-05-21 20:44:59,704 INFO  [Log] browser name is:::chrome 
+2016-05-21 20:45:15,178 INFO  [Log] Browser initiated:::chrome 
+2016-05-21 20:45:15,179 INFO  [Log] WebDriver instance is set 
+2016-05-21 20:45:19,852 INFO  [Log] App is invoked:::http://api.skorkel.com/ 
+2016-05-21 20:45:19,890 INFO  [Log] Waiting for 10 Seconds 
+2016-05-21 20:45:20,743 INFO  [Log] Browser get Maximized 
+2016-05-21 20:45:20,744 INFO  [Log] $$$$$$$$$$$$-START-$$$$$$$$$$$$ 
+2016-05-21 20:45:20,744 INFO  [Log] Find Sign In Button 
+2016-05-21 20:45:21,025 INFO  [Log] Log in Link button is clicked 
+2016-05-21 20:45:21,059 INFO  [Log] pop up not handled properly 
+2016-05-21 20:45:21,281 INFO  [Log] Data sent to text field 
+2016-05-21 20:45:21,431 INFO  [Log] Data sent to text field 
+2016-05-21 20:45:26,272 INFO  [Log] Logged In.. 
+2016-05-21 20:45:26,272 INFO  [Log] $$$$$$$$$$$$-END-$$$$$$$$$$$$ 
+2016-05-21 20:45:26,272 INFO  [Log] Test Execution Ends 
+2016-05-21 20:49:00,759 INFO  [Log] Excel File found 
+2016-05-21 20:49:01,633 INFO  [Log] A new excel workbook created 
+2016-05-21 20:49:01,635 INFO  [Log] First excel sheet opened 
+2016-05-21 20:49:01,635 INFO  [Log] Excel File found 
+2016-05-21 20:49:01,730 INFO  [Log] A new excel workbook created 
+2016-05-21 20:49:01,730 INFO  [Log] Second excel sheet opened 
+2016-05-21 20:49:01,730 INFO  [Log] Excel File found 
+2016-05-21 20:49:01,795 INFO  [Log] A new excel workbook created 
+2016-05-21 20:49:01,796 INFO  [Log] Third excel sheet opened 
+2016-05-21 20:49:01,802 INFO  [Log] Set Browser from excel 
+2016-05-21 20:49:01,802 INFO  [Log] get all Cases That are marked Yes from 1st Sheet 
+2016-05-21 20:49:01,804 INFO  [Log] get all keywords that related to the test cases which are marked Yes 
+2016-05-21 20:49:01,931 INFO  [Log] browser name is:::chrome 
+2016-05-21 20:49:09,401 INFO  [Log] Browser initiated:::chrome 
+2016-05-21 20:49:09,401 INFO  [Log] WebDriver instance is set 
+2016-05-21 20:49:13,146 INFO  [Log] App is invoked:::http://api.skorkel.com/ 
+2016-05-21 20:49:13,159 INFO  [Log] Waiting for 10 Seconds 
+2016-05-21 20:49:13,771 INFO  [Log] Browser get Maximized 
+2016-05-21 20:49:13,772 INFO  [Log] $$$$$$$$$$$$-START-$$$$$$$$$$$$ 
+2016-05-21 20:49:13,772 INFO  [Log] Find Sign In Button 
+2016-05-21 20:49:14,033 INFO  [Log] Log in Link button is clicked 
+2016-05-21 20:49:14,057 INFO  [Log] pop up not handled properly 
+2016-05-21 20:49:14,296 INFO  [Log] Data sent to text field 
+2016-05-21 20:49:14,455 INFO  [Log] Data sent to text field 
+2016-05-21 20:49:17,300 INFO  [Log] Logged In.. 
+2016-05-21 20:49:17,300 INFO  [Log] $$$$$$$$$$$$-END-$$$$$$$$$$$$ 
+2016-05-21 20:49:17,300 INFO  [Log] Test Execution Ends 
+2016-05-21 20:49:56,932 INFO  [Log] Excel File found 
+2016-05-21 20:49:57,910 INFO  [Log] A new excel workbook created 
+2016-05-21 20:49:57,912 INFO  [Log] First excel sheet opened 
+2016-05-21 20:49:57,913 INFO  [Log] Excel File found 
+2016-05-21 20:49:58,025 INFO  [Log] A new excel workbook created 
+2016-05-21 20:49:58,026 INFO  [Log] Second excel sheet opened 
+2016-05-21 20:49:58,026 INFO  [Log] Excel File found 
+2016-05-21 20:49:58,097 INFO  [Log] A new excel workbook created 
+2016-05-21 20:49:58,097 INFO  [Log] Third excel sheet opened 
+2016-05-21 20:49:58,108 INFO  [Log] Set Browser from excel 
+2016-05-21 20:49:58,108 INFO  [Log] get all Cases That are marked Yes from 1st Sheet 
+2016-05-21 20:49:58,110 INFO  [Log] get all keywords that related to the test cases which are marked Yes 
+2016-05-21 20:49:58,251 INFO  [Log] browser name is:::chrome 
+2016-05-21 20:50:05,421 INFO  [Log] Browser initiated:::chrome 
+2016-05-21 20:50:05,421 INFO  [Log] WebDriver instance is set 
+2016-05-21 20:50:08,219 INFO  [Log] App is invoked:::http://api.skorkel.com/ 
+2016-05-21 20:50:08,228 INFO  [Log] Waiting for 10 Seconds 
+2016-05-21 20:50:08,778 INFO  [Log] Browser get Maximized 
+2016-05-21 20:50:08,779 INFO  [Log] $$$$$$$$$$$$-START-$$$$$$$$$$$$ 
+2016-05-21 20:50:08,779 INFO  [Log] Find Sign In Button 
+2016-05-21 20:50:09,030 INFO  [Log] Log in Link button is clicked 
+2016-05-21 20:50:09,060 INFO  [Log] pop up not handled properly 
+2016-05-21 20:50:09,313 INFO  [Log] Data sent to text field 
+2016-05-21 20:50:09,531 INFO  [Log] Data sent to text field 
+2016-05-21 20:50:12,040 INFO  [Log] Logged In.. 
+2016-05-21 20:50:12,040 INFO  [Log] $$$$$$$$$$$$-END-$$$$$$$$$$$$ 
+2016-05-21 20:50:12,040 INFO  [Log] Test Execution Ends 
+2016-05-21 20:51:29,633 INFO  [Log] Excel File found 
+2016-05-21 20:51:30,472 INFO  [Log] A new excel workbook created 
+2016-05-21 20:51:30,474 INFO  [Log] First excel sheet opened 
+2016-05-21 20:51:30,475 INFO  [Log] Excel File found 
+2016-05-21 20:51:30,548 INFO  [Log] A new excel workbook created 
+2016-05-21 20:51:30,549 INFO  [Log] Second excel sheet opened 
+2016-05-21 20:51:30,549 INFO  [Log] Excel File found 
+2016-05-21 20:51:30,608 INFO  [Log] A new excel workbook created 
+2016-05-21 20:51:30,608 INFO  [Log] Third excel sheet opened 
+2016-05-21 20:51:30,618 INFO  [Log] Set Browser from excel 
+2016-05-21 20:51:30,618 INFO  [Log] get all Cases That are marked Yes from 1st Sheet 
+2016-05-21 20:51:30,621 INFO  [Log] get all keywords that related to the test cases which are marked Yes 
+2016-05-21 20:51:30,716 INFO  [Log] browser name is:::chrome 
+2016-05-21 20:51:37,414 INFO  [Log] Browser initiated:::chrome 
+2016-05-21 20:51:37,415 INFO  [Log] WebDriver instance is set 
+2016-05-21 20:51:40,094 INFO  [Log] App is invoked:::http://api.skorkel.com/ 
+2016-05-21 20:51:40,103 INFO  [Log] Waiting for 10 Seconds 
+2016-05-21 20:51:40,640 INFO  [Log] Browser get Maximized 
+2016-05-21 20:51:40,641 INFO  [Log] $$$$$$$$$$$$-START-$$$$$$$$$$$$ 
+2016-05-21 20:51:40,641 INFO  [Log] Find Sign In Button 
+2016-05-21 20:51:40,831 INFO  [Log] Log in Link button is clicked 
+2016-05-21 20:51:40,862 INFO  [Log] pop up not handled properly 
+2016-05-21 20:51:41,152 INFO  [Log] Data sent to text field 
+2016-05-21 20:51:41,340 INFO  [Log] Data sent to text field 
+2016-05-21 20:51:43,721 INFO  [Log] Logged In.. 
+2016-05-21 20:51:43,722 INFO  [Log] $$$$$$$$$$$$-END-$$$$$$$$$$$$ 
+2016-05-21 20:51:43,722 INFO  [Log] Test Execution Ends 
+2016-05-21 20:58:35,604 INFO  [Log] Excel File found 
+2016-05-21 20:58:36,606 INFO  [Log] A new excel workbook created 
+2016-05-21 20:58:36,607 INFO  [Log] First excel sheet opened 
+2016-05-21 20:58:36,608 INFO  [Log] Excel File found 
+2016-05-21 20:58:36,677 INFO  [Log] A new excel workbook created 
+2016-05-21 20:58:36,677 INFO  [Log] Second excel sheet opened 
+2016-05-21 20:58:36,678 INFO  [Log] Excel File found 
+2016-05-21 20:58:36,739 INFO  [Log] A new excel workbook created 
+2016-05-21 20:58:36,739 INFO  [Log] Third excel sheet opened 
+2016-05-21 20:58:36,746 INFO  [Log] Set Browser from excel 
+2016-05-21 20:58:36,746 INFO  [Log] get all Cases That are marked Yes from 1st Sheet 
+2016-05-21 20:58:36,748 INFO  [Log] get all keywords that related to the test cases which are marked Yes 
+2016-05-21 20:58:36,845 INFO  [Log] browser name is:::chrome 
+2016-05-21 20:58:42,810 INFO  [Log] Browser initiated:::chrome 
+2016-05-21 20:58:42,810 INFO  [Log] WebDriver instance is set 
+2016-05-21 20:58:45,299 INFO  [Log] App is invoked:::http://api.skorkel.com/ 
+2016-05-21 20:58:45,306 INFO  [Log] Waiting for 10 Seconds 
+2016-05-21 20:58:45,894 INFO  [Log] Browser get Maximized 
+2016-05-21 20:58:45,895 INFO  [Log] $$$$$$$$$$$$-START-$$$$$$$$$$$$ 
+2016-05-21 20:58:45,895 INFO  [Log] Find Sign In Button 
+2016-05-21 20:58:46,060 INFO  [Log] Log in Link button is clicked 
+2016-05-21 20:58:46,234 INFO  [Log] Data sent to text field 
+2016-05-21 20:58:46,389 INFO  [Log] Data sent to text field 
+2016-05-21 20:58:49,199 INFO  [Log] Logged In.. 
+2016-05-21 20:58:49,199 INFO  [Log] $$$$$$$$$$$$-END-$$$$$$$$$$$$ 
+2016-05-21 20:58:49,199 INFO  [Log] Test Execution Ends 
+2016-06-19 23:11:59,387 INFO  [Log] Excel File found 
+2016-06-19 23:12:00,575 INFO  [Log] A new excel workbook created 
+2016-06-19 23:12:00,591 INFO  [Log] First excel sheet opened 
+2016-06-19 23:12:00,591 INFO  [Log] Excel File found 
+2016-06-19 23:12:00,684 INFO  [Log] A new excel workbook created 
+2016-06-19 23:12:00,684 INFO  [Log] Second excel sheet opened 
+2016-06-19 23:12:00,684 INFO  [Log] Excel File found 
+2016-06-19 23:12:00,747 INFO  [Log] A new excel workbook created 
+2016-06-19 23:12:00,747 INFO  [Log] Third excel sheet opened 
+2016-06-19 23:12:00,762 INFO  [Log] Set Browser from excel 
+2016-06-19 23:12:00,762 INFO  [Log] get all Cases That are marked Yes from 1st Sheet 
+2016-06-19 23:12:00,762 INFO  [Log] get all keywords that related to the test cases which are marked Yes 
+2016-06-19 23:12:00,903 INFO  [Log] browser name is:::chrome 
+2016-06-19 23:12:16,877 INFO  [Log] Browser initiated:::chrome 
+2016-06-19 23:12:16,877 INFO  [Log] WebDriver instance is set 
+2016-06-19 23:12:27,797 INFO  [Log] App is invoked:::http://api.skorkel.com/ 
+2016-06-19 23:12:27,843 INFO  [Log] Waiting for 10 Seconds 
+2016-06-19 23:12:28,703 INFO  [Log] Browser get Maximized 
+2016-06-19 23:12:28,703 INFO  [Log] $$$$$$$$$$$$-START-$$$$$$$$$$$$ 
+2016-06-19 23:12:28,703 INFO  [Log] Find Sign In Button 
+2016-06-19 23:12:29,156 INFO  [Log] Log in Link button is clicked 
+2016-06-19 23:12:29,521 INFO  [Log] Data sent to text field 
+2016-06-19 23:12:29,743 INFO  [Log] Data sent to text field 
+2016-06-19 23:12:29,901 INFO  [Log] Logged In.. 
+2016-06-19 23:12:29,901 INFO  [Log] $$$$$$$$$$$$-END-$$$$$$$$$$$$ 
+2016-06-19 23:12:29,901 INFO  [Log] Test Execution Ends 
+2016-06-19 23:13:17,451 INFO  [Log] Excel File found 
+2016-06-19 23:13:18,119 INFO  [Log] A new excel workbook created 
+2016-06-19 23:13:18,119 INFO  [Log] First excel sheet opened 
+2016-06-19 23:13:18,119 INFO  [Log] Excel File found 
+2016-06-19 23:13:18,205 INFO  [Log] A new excel workbook created 
+2016-06-19 23:13:18,206 INFO  [Log] Second excel sheet opened 
+2016-06-19 23:13:18,206 INFO  [Log] Excel File found 
+2016-06-19 23:13:18,285 INFO  [Log] A new excel workbook created 
+2016-06-19 23:13:18,285 INFO  [Log] Third excel sheet opened 
+2016-06-19 23:13:18,291 INFO  [Log] Set Browser from excel 
+2016-06-19 23:13:18,291 INFO  [Log] get all Cases That are marked Yes from 1st Sheet 
+2016-06-19 23:13:18,293 INFO  [Log] get all keywords that related to the test cases which are marked Yes 
+2016-06-19 23:13:18,391 INFO  [Log] browser name is:::chrome 
+2016-06-19 23:13:25,912 INFO  [Log] Browser initiated:::chrome 
+2016-06-19 23:13:25,912 INFO  [Log] WebDriver instance is set 
+2016-06-19 23:13:50,230 INFO  [Log] App is invoked:::http://api.skorkel.com/ 
+2016-06-19 23:13:50,248 INFO  [Log] Waiting for 10 Seconds 
+2016-06-19 23:13:50,848 INFO  [Log] Browser get Maximized 
+2016-06-19 23:13:50,848 INFO  [Log] $$$$$$$$$$$$-START-$$$$$$$$$$$$ 
+2016-06-19 23:13:50,848 INFO  [Log] Find Sign In Button 
+2016-06-19 23:13:51,031 INFO  [Log] Log in Link button is clicked 
+2016-06-19 23:13:51,222 INFO  [Log] Data sent to text field 
+2016-06-19 23:13:51,439 INFO  [Log] Data sent to text field 
+2016-06-19 23:14:59,372 INFO  [Log] Logged In.. 
+2016-06-19 23:14:59,372 INFO  [Log] $$$$$$$$$$$$-END-$$$$$$$$$$$$ 
+2016-06-19 23:14:59,372 INFO  [Log] Test Execution Ends 

@@ -78,10 +78,12 @@ public class UIInteraction {
     }
 
     public static String getMainWindowHandler(){
+
         return driver.getWindowHandle();
     }
 
     public static void swithchTomainWindow(String mainWindowHandle){
+
         driver.switchTo().window(mainWindowHandle);
     }
 
@@ -122,5 +124,4 @@ public class UIInteraction {
         }
         return path;
     }
-
 }

@@ -51,7 +51,6 @@ public class A_Login {
         Log.info("Browser get Maximized");
     }
 
-
     @Test(priority=1)
     public void findSigninButton(){
         Log.startTestCase("Find Sign In Button");
@@ -65,7 +64,7 @@ public class A_Login {
 
     }
 
-    @Test(priority=2)
+    @Test(priority=2, enabled = false)
     public void verifyPopup(){
         String mainWindowHandle=UIInteraction.getMainWindowHandler();
         if(UIInteraction.handlePopup(mainWindowHandle)){
